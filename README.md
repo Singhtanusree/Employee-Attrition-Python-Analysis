@@ -22,17 +22,4 @@ Synthetic HR dataset (`employee_attrition_data.csv`) containing employee demogra
 2. **Audit the Employee Referral pipeline** — despite its reputation, it has the highest attrition of any recruitment source. Interviewing a sample of recently-referred leavers could surface expectation mismatches set during hiring.
 3. **Invest in visible growth paths, not just pay** — since growth-related reasons dominate exits, career-pathing and internal mobility programs are likely to have more retention impact than compensation adjustments alone.
 
-## Repository Structure
-```
-├── notebooks/
-│   └── employee_attrition_analysis.ipynb
-├── data/
-│   └── employee_attrition_data.csv
-├── images/
-   ├── attrition_by_department.png
-   ├── attrition_by_recruitment_source.png
-   ├── count_of_emp_by_exit_reason.png
-   └── dashboard.png
-
-
 
