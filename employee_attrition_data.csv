@@ -1,0 +1,501 @@
+EmployeeID,FullName,Gender,Age,DateOfBirth,MaritalStatus,Education,City,Department,Position,ManagerName,RecruitmentSource,DateOfJoining,DateOfExit,TenureYears,MonthlySalary,PerformanceRating,EngagementScore,JobSatisfaction,Absences,DaysLateInMonth,TrainingHoursLastYear,ProjectsCompleted,EmploymentStatus,ExitReason,Attrition
+EMP1001,Vikram Pillai,Male,35,1989-06-24,Divorced,B.Tech,Kolkata,Technology,DevOps Engineer,Arjun Nair,Company Website,2020-07-20,,4.5,89275,Average,3.6,4,18,3,32,0,Active,,0
+EMP1002,Amit Kumar,Male,24,2000-11-11,Single,B.Com,Pune,Finance,Finance Analyst,Kavya Reddy,Company Website,2020-11-28,,4.1,69337,Excellent,2.05,5,9,6,41,6,Active,,0
+EMP1003,Anita Pillai,Female,40,1984-05-13,Divorced,M.Sc,Hyderabad,Sales,Sales Manager,Rahul Sharma,Campus Placement,2023-01-10,2023-06-09,2.0,84559,Excellent,4.89,4,25,5,59,7,Terminated,Work-Life Balance,1
+EMP1004,Nikhil Desai,Male,29,1995-04-05,Divorced,B.Com,Hyderabad,Technology,Data Analyst,Arjun Nair,Campus Placement,2015-01-08,,10.0,91332,Average,2.24,4,13,3,49,7,Active,,0
+EMP1005,Rajesh Iyer,Male,27,1997-12-17,Divorced,M.Sc,Chennai,Sales,Senior Sales Executive,Rahul Sharma,Indeed,2022-01-18,,3.0,72712,Good,3.34,4,4,7,67,8,Active,,0
+EMP1006,Ankita Mishra,Female,50,1974-03-24,Married,BBA,Pune,Sales,Senior Sales Executive,Priya Menon,LinkedIn,2022-08-09,,2.4,72698,Good,2.52,5,15,3,35,7,Active,,0
+EMP1007,Deepak Joshi,Male,29,1995-07-23,Married,B.Sc,Hyderabad,Operations,Operations Executive,Anita Desai,LinkedIn,2017-12-07,,7.1,42586,Good,2.78,4,10,8,59,6,Active,,0
+EMP1008,Tarun Rao,Male,37,1987-01-12,Divorced,CA,Kolkata,Technology,Data Analyst,Arjun Nair,LinkedIn,2019-07-28,,5.4,87888,Good,4.25,4,7,4,55,7,Active,,0
+EMP1009,Anita Mishra,Female,51,1973-03-20,Married,M.Tech,Mumbai,Sales,Sales Analyst,Rahul Sharma,Naukri.com,2023-01-13,2024-06-06,2.0,52513,Good,1.66,1,20,6,17,7,Terminated,Conflict with Manager,1
+EMP1010,Riya Kumar,Female,30,1994-02-16,Single,BBA,Hyderabad,Operations,Operations Executive,Anita Desai,LinkedIn,2015-12-18,2018-09-03,9.0,40873,Average,2.1,2,20,1,5,12,Terminated,Relocation,1
+EMP1011,Tarun Nair,Male,36,1988-12-09,Divorced,B.Sc,Kolkata,Finance,Financial Controller,Deepak Joshi,Employee Referral,2020-03-20,,4.8,96715,Average,3.04,2,9,1,74,0,Active,,0
+EMP1012,Vikram Desai,Male,49,1975-11-20,Married,B.Tech,Chennai,HR,HR Executive,Rohit Verma,Company Website,2016-10-26,,8.2,48216,Excellent,3.23,5,13,5,8,8,Active,,0
+EMP1013,Rajesh Patel,Male,42,1982-08-23,Single,CA,Pune,Sales,Sales Analyst,Priya Menon,Campus Placement,2017-07-06,,7.5,56016,Good,3.32,5,25,8,61,7,Active,,0
+EMP1014,Siddharth Mishra,Male,29,1995-08-19,Divorced,M.Tech,Chennai,Technology,Data Analyst,Sneha Iyer,Employee Referral,2021-06-01,,3.6,76221,Good,2.15,2,15,3,45,12,Active,,0
+EMP1015,Ankita Sharma,Female,38,1986-04-03,Single,M.Tech,Bangalore,Marketing,Content Strategist,Simran Kaur,LinkedIn,2018-12-14,,6.1,66578,Excellent,2.19,4,20,7,57,12,Active,,0
+EMP1016,Manish Bhat,Male,33,1991-08-18,Divorced,MBA,Hyderabad,Sales,Sales Analyst,Priya Menon,Employee Referral,2023-06-14,2023-12-11,1.6,52995,Excellent,2.64,3,22,7,34,4,Voluntarily Resigned,Relocation,1
+EMP1017,Ankit Reddy,Male,45,1979-10-25,Single,M.Tech,Delhi,Finance,Finance Analyst,Deepak Joshi,LinkedIn,2023-10-10,,1.2,60974,Average,2.75,3,7,5,22,4,Active,,0
+EMP1018,Simran Tiwari,Female,25,1999-01-19,Married,B.Sc,Bangalore,Technology,Data Analyst,Sneha Iyer,Recruitment Agency,2019-08-16,2023-02-26,5.4,80029,Good,3.4,2,1,4,61,1,Voluntarily Resigned,Better Opportunity,1
+EMP1019,Tarun Desai,Male,24,2000-04-04,Divorced,M.Tech,Kolkata,Technology,DevOps Engineer,Arjun Nair,Recruitment Agency,2023-07-20,,1.5,87963,Excellent,4.95,5,12,7,56,4,Active,,0
+EMP1020,Aakash Nair,Male,30,1994-11-03,Single,M.Tech,Ahmedabad,Operations,Supply Chain Analyst,Vikram Singh,Indeed,2017-04-06,2024-11-25,7.7,45198,Average,2.2,2,0,6,57,11,Terminated,Work-Life Balance,1
+EMP1021,Nikhil Reddy,Male,47,1977-11-19,Married,M.Tech,Pune,HR,L&D Specialist,Neha Gupta,Naukri.com,2018-07-04,2021-11-15,6.5,60670,Average,1.76,2,8,2,9,0,Terminated,No Growth,1
+EMP1022,Tanvi Singh,Female,41,1983-01-14,Divorced,M.Sc,Delhi,Operations,Operations Executive,Vikram Singh,LinkedIn,2020-10-09,,4.2,50674,Good,1.91,2,21,0,34,9,Active,,0
+EMP1023,Anita Bhat,Female,35,1989-11-27,Divorced,M.Tech,Ahmedabad,Operations,Process Manager,Anita Desai,Campus Placement,2022-02-16,,2.9,69322,Good,1.72,3,10,1,20,5,Active,,0
+EMP1024,Pradeep Singh,Male,32,1992-05-11,Divorced,M.Sc,Chennai,Finance,Financial Controller,Deepak Joshi,Indeed,2016-07-28,,8.4,109009,Good,2.64,5,14,6,6,3,Active,,0
+EMP1025,Aakash Reddy,Male,39,1985-03-10,Single,B.Sc,Mumbai,Sales,Sales Executive,Rahul Sharma,Indeed,2022-12-16,2023-06-14,2.0,55970,Below Average,3.15,5,25,3,20,4,Voluntarily Resigned,Contract End,1
+EMP1026,Ankit Desai,Male,38,1986-12-09,Married,MBA,Delhi,Marketing,Digital Marketing Analyst,Aakash Mehta,Indeed,2021-08-16,,3.4,62526,Excellent,4.0,5,4,6,24,9,Active,,0
+EMP1027,Nisha Pandey,Female,30,1994-01-10,Married,M.Sc,Kolkata,Technology,QA Engineer,Sneha Iyer,Employee Referral,2019-10-19,,5.2,88246,Average,3.23,2,14,8,61,5,Active,,0
+EMP1028,Tarun Rao,Male,29,1995-07-02,Married,MBA,Chennai,Technology,QA Engineer,Sneha Iyer,Naukri.com,2020-12-16,2023-08-03,4.0,97189,Good,3.0,4,21,2,63,0,Voluntarily Resigned,Better Opportunity,1
+EMP1029,Simran Singh,Female,37,1987-05-11,Divorced,BBA,Bangalore,Technology,Tech Lead,Sneha Iyer,Indeed,2021-11-03,,3.2,124326,Good,3.28,3,20,7,69,0,Active,,0
+EMP1030,Divya Singh,Female,35,1989-02-25,Single,B.Sc,Chennai,Technology,QA Engineer,Sneha Iyer,Employee Referral,2016-08-06,2021-02-11,8.4,83227,Below Average,2.37,1,1,5,7,4,Voluntarily Resigned,Relocation,1
+EMP1031,Arjun Pillai,Male,49,1975-07-20,Married,M.Sc,Mumbai,Technology,Senior Software Engineer,Arjun Nair,Company Website,2018-08-19,,6.4,137539,Good,1.77,4,20,4,58,4,Active,,0
+EMP1032,Arjun Mishra,Male,52,1972-06-19,Divorced,B.Sc,Hyderabad,Technology,QA Engineer,Sneha Iyer,LinkedIn,2019-11-14,,5.1,81561,Good,2.06,4,9,3,49,7,Active,,0
+EMP1033,Shruti Sharma,Female,48,1976-11-13,Single,CA,Hyderabad,Technology,QA Engineer,Arjun Nair,Recruitment Agency,2019-01-19,,6.0,92457,Average,2.15,5,23,7,36,12,Active,,0
+EMP1034,Simran Gupta,Female,50,1974-11-21,Single,B.Com,Kolkata,Sales,Key Account Manager,Rahul Sharma,Employee Referral,2015-05-26,2021-04-24,9.6,77306,Below Average,3.39,5,11,2,11,4,Terminated,Conflict with Manager,1
+EMP1035,Siddharth Tiwari,Male,52,1972-05-24,Married,B.Tech,Kolkata,Operations,Operations Executive,Vikram Singh,LinkedIn,2020-02-15,,4.9,43879,Good,2.99,2,21,6,71,5,Active,,0
+EMP1036,Meera Reddy,Female,40,1984-07-27,Divorced,M.Sc,Bangalore,Sales,Senior Sales Executive,Priya Menon,Naukri.com,2020-02-22,2022-07-11,4.9,73499,Average,4.51,1,19,8,41,9,Voluntarily Resigned,Higher Salary Elsewhere,1
+EMP1037,Rohit Desai,Male,37,1987-02-04,Divorced,B.Sc,Delhi,HR,HR Manager,Rohit Verma,Company Website,2018-09-05,2024-01-07,6.3,71528,Good,2.28,3,21,8,53,9,Terminated,No Growth,1
+EMP1038,Amit Nair,Male,36,1988-08-08,Divorced,MBA,Ahmedabad,Sales,Sales Manager,Priya Menon,Recruitment Agency,2020-02-22,,4.9,74039,Excellent,2.68,1,12,4,24,1,Active,,0
+EMP1039,Rohit Kaur,Male,29,1995-03-26,Single,M.Tech,Mumbai,Technology,DevOps Engineer,Arjun Nair,Naukri.com,2018-02-27,,6.8,84274,Good,3.96,5,6,3,42,12,Active,,0
+EMP1040,Anita Gupta,Female,43,1981-01-05,Divorced,MBA,Kolkata,Technology,Senior Software Engineer,Sneha Iyer,Company Website,2015-06-26,2020-05-30,9.5,127338,Good,4.9,1,5,4,6,2,Voluntarily Resigned,Conflict with Manager,1
+EMP1041,Pallavi Iyer,Female,52,1972-10-02,Single,MBA,Ahmedabad,Finance,Finance Analyst,Deepak Joshi,Company Website,2023-05-15,,1.6,58226,Good,1.63,4,12,6,13,7,Active,,0
+EMP1042,Arjun Joshi,Male,30,1994-10-21,Married,BBA,Bangalore,Technology,Data Analyst,Sneha Iyer,Company Website,2023-12-11,,1.1,85298,Average,3.26,4,16,6,12,12,Active,,0
+EMP1043,Rajesh Kaur,Male,48,1976-08-13,Single,MBA,Ahmedabad,Technology,Tech Lead,Sneha Iyer,Company Website,2021-12-04,,3.1,121672,Excellent,3.21,3,21,4,47,2,Active,,0
+EMP1044,Rajesh Gupta,Male,45,1979-12-12,Married,M.Tech,Pune,Technology,DevOps Engineer,Sneha Iyer,LinkedIn,2017-09-02,2023-03-05,7.3,87791,Poor,2.35,1,13,5,54,11,Voluntarily Resigned,Personal Reasons,1
+EMP1045,Divya Gupta,Female,33,1991-09-12,Single,B.Tech,Pune,Finance,Senior Finance Analyst,Kavya Reddy,Company Website,2016-05-19,,8.6,110314,Good,4.05,5,24,8,3,9,Active,,0
+EMP1046,Nisha Patel,Female,22,2002-03-28,Married,B.Sc,Hyderabad,Technology,Data Analyst,Arjun Nair,Indeed,2017-10-22,,7.2,91214,Good,3.71,2,23,0,11,11,Active,,0
+EMP1047,Amit Desai,Male,45,1979-06-25,Married,B.Sc,Ahmedabad,Technology,Senior Software Engineer,Arjun Nair,Indeed,2016-01-05,,9.0,129075,Excellent,4.42,1,8,7,54,7,Active,,0
+EMP1048,Amit Kumar,Male,25,1999-05-22,Married,B.Com,Hyderabad,Operations,Process Manager,Vikram Singh,Employee Referral,2022-09-22,2023-03-21,2.3,78990,Good,2.15,2,12,0,0,3,Terminated,Better Opportunity,1
+EMP1049,Anita Joshi,Female,34,1990-09-23,Divorced,CA,Bangalore,Technology,QA Engineer,Sneha Iyer,Campus Placement,2018-09-18,,6.3,86257,Average,1.56,1,12,0,55,0,Active,,0
+EMP1050,Isha Desai,Female,25,1999-07-01,Married,MBA,Kolkata,Technology,DevOps Engineer,Sneha Iyer,Campus Placement,2020-03-26,,4.8,81673,Good,2.29,3,2,6,13,3,Active,,0
+EMP1051,Divya Kaur,Female,46,1978-03-03,Single,BBA,Pune,Sales,Sales Analyst,Rahul Sharma,Naukri.com,2023-11-04,,1.2,47270,Average,2.85,3,11,2,30,1,Active,,0
+EMP1052,Rahul Tiwari,Male,36,1988-10-25,Divorced,M.Tech,Pune,Sales,Sales Analyst,Priya Menon,Campus Placement,2022-11-19,2024-06-11,2.1,54397,Below Average,1.98,3,4,7,8,7,Terminated,Higher Salary Elsewhere,1
+EMP1053,Tanvi Verma,Female,23,2001-06-27,Divorced,CA,Hyderabad,HR,HR Executive,Rohit Verma,Recruitment Agency,2019-02-21,,5.9,46053,Below Average,4.57,4,18,8,5,7,Active,,0
+EMP1054,Rohit Mishra,Male,25,1999-06-23,Married,CA,Delhi,Operations,Operations Analyst,Vikram Singh,Indeed,2016-09-21,,8.3,45460,Good,3.81,2,22,7,56,8,Active,,0
+EMP1055,Isha Kaur,Female,43,1981-10-02,Married,CA,Delhi,Sales,Sales Executive,Priya Menon,Indeed,2020-02-11,,4.9,53255,Good,2.35,3,8,2,42,1,Active,,0
+EMP1056,Simran Pillai,Female,44,1980-02-10,Single,M.Tech,Chennai,Technology,Tech Lead,Arjun Nair,LinkedIn,2023-07-21,,1.4,135917,Excellent,4.64,5,2,6,65,5,Active,,0
+EMP1057,Sakshi Nair,Female,29,1995-03-05,Divorced,B.Com,Delhi,Operations,Operations Executive,Vikram Singh,Naukri.com,2016-05-28,,8.6,47881,Good,2.72,3,24,2,76,6,Active,,0
+EMP1058,Pradeep Verma,Male,35,1989-06-22,Married,BBA,Ahmedabad,Technology,Tech Lead,Sneha Iyer,Recruitment Agency,2018-08-20,,6.4,130927,Average,4.64,2,17,3,39,12,Active,,0
+EMP1059,Tanvi Desai,Female,46,1978-07-17,Single,M.Tech,Bangalore,Technology,Senior Software Engineer,Arjun Nair,LinkedIn,2023-07-06,,1.5,125879,Average,1.79,3,1,7,47,8,Active,,0
+EMP1060,Tanvi Pandey,Female,26,1998-07-03,Single,CA,Bangalore,Finance,Finance Analyst,Kavya Reddy,Campus Placement,2018-08-12,2019-11-05,6.4,72361,Excellent,4.64,1,12,8,47,3,Voluntarily Resigned,Conflict with Manager,1
+EMP1061,Rohit Desai,Male,51,1973-08-23,Married,MBA,Kolkata,Technology,Data Analyst,Arjun Nair,Indeed,2017-12-16,2019-06-09,7.0,87727,Excellent,2.06,1,0,4,27,2,Voluntarily Resigned,Better Opportunity,1
+EMP1062,Aishwarya Mishra,Female,24,2000-02-27,Single,B.Sc,Hyderabad,Finance,Finance Analyst,Deepak Joshi,Employee Referral,2022-10-18,,2.2,65742,Good,3.92,2,9,6,0,9,Active,,0
+EMP1063,Gaurav Patel,Male,24,2000-09-18,Single,CA,Mumbai,Sales,Sales Executive,Priya Menon,Company Website,2023-09-18,,1.3,46672,Average,2.33,4,1,6,47,4,Active,,0
+EMP1064,Tarun Kaur,Male,26,1998-01-12,Divorced,MBA,Delhi,Technology,QA Engineer,Arjun Nair,Recruitment Agency,2023-06-27,,1.5,90489,Good,4.11,4,22,7,80,2,Active,,0
+EMP1065,Sneha Desai,Female,28,1996-01-26,Married,M.Tech,Hyderabad,Sales,Sales Manager,Priya Menon,Company Website,2018-01-11,,7.0,80987,Average,3.49,5,15,4,4,12,Active,,0
+EMP1066,Karan Reddy,Male,25,1999-06-14,Divorced,MBA,Pune,Sales,Key Account Manager,Priya Menon,Indeed,2021-12-15,,3.0,77794,Excellent,2.79,2,15,7,47,12,Active,,0
+EMP1067,Aishwarya Mehta,Female,39,1985-05-11,Single,M.Sc,Chennai,Operations,Process Manager,Anita Desai,Campus Placement,2016-02-11,,8.9,62974,Poor,2.88,4,19,6,21,11,Active,,0
+EMP1068,Aishwarya Kumar,Female,30,1994-11-26,Single,B.Tech,Ahmedabad,Technology,QA Engineer,Sneha Iyer,Recruitment Agency,2015-02-22,2023-07-10,9.9,79299,Below Average,3.71,3,16,2,3,2,Terminated,Conflict with Manager,1
+EMP1069,Shreya Verma,Female,41,1983-03-22,Single,BBA,Pune,Finance,Accountant,Deepak Joshi,Employee Referral,2022-06-12,,2.6,78101,Good,3.22,5,4,8,46,6,Active,,0
+EMP1070,Ankit Pandey,Male,34,1990-09-04,Single,M.Sc,Bangalore,Marketing,Content Strategist,Simran Kaur,Naukri.com,2019-05-23,,5.6,71011,Excellent,4.03,5,9,7,25,1,Active,,0
+EMP1071,Neha Kaur,Female,43,1981-06-23,Single,BBA,Bangalore,Sales,Sales Manager,Priya Menon,Naukri.com,2016-09-18,2022-02-19,8.3,69188,Below Average,4.84,2,22,2,46,8,Terminated,Better Opportunity,1
+EMP1072,Tanvi Agarwal,Female,26,1998-10-03,Married,M.Sc,Bangalore,Marketing,Content Strategist,Aakash Mehta,Company Website,2016-05-13,,8.6,64991,Below Average,2.8,4,18,1,16,5,Active,,0
+EMP1073,Simran Agarwal,Female,42,1982-10-06,Divorced,CA,Hyderabad,Operations,Operations Executive,Vikram Singh,Employee Referral,2017-07-17,,7.5,48768,Poor,4.49,5,4,4,21,2,Active,,0
+EMP1074,Siddharth Nair,Male,42,1982-09-09,Divorced,CA,Delhi,Operations,Supply Chain Analyst,Vikram Singh,Naukri.com,2017-11-10,2018-05-09,7.1,46497,Good,2.85,5,20,2,75,9,Voluntarily Resigned,Higher Salary Elsewhere,1
+EMP1075,Pooja Bhat,Female,35,1989-10-21,Single,B.Tech,Bangalore,Finance,Financial Controller,Kavya Reddy,Campus Placement,2015-08-21,,9.4,97917,Excellent,3.45,3,15,3,51,4,Active,,0
+EMP1076,Tanvi Nair,Female,32,1992-10-05,Married,BBA,Chennai,Finance,Finance Manager,Kavya Reddy,LinkedIn,2020-12-11,2023-06-29,4.1,108079,Below Average,3.94,2,24,5,65,8,Voluntarily Resigned,Personal Reasons,1
+EMP1077,Rohit Desai,Male,52,1972-07-28,Married,M.Sc,Ahmedabad,Technology,Senior Software Engineer,Sneha Iyer,Naukri.com,2021-04-28,,3.7,115103,Average,4.97,5,23,5,24,12,Active,,0
+EMP1078,Priya Singh,Female,52,1972-07-17,Divorced,M.Tech,Ahmedabad,Operations,Supply Chain Analyst,Anita Desai,Recruitment Agency,2022-04-07,2022-10-04,2.7,47439,Excellent,3.31,1,1,4,63,9,Voluntarily Resigned,No Growth,1
+EMP1079,Meera Rao,Female,33,1991-01-13,Single,MBA,Pune,Technology,Senior Software Engineer,Sneha Iyer,Campus Placement,2015-10-18,,9.2,126898,Average,3.96,5,9,1,49,8,Active,,0
+EMP1080,Meera Kaur,Female,39,1985-06-25,Divorced,M.Sc,Chennai,Technology,DevOps Engineer,Sneha Iyer,Company Website,2017-04-20,,7.7,89761,Good,2.53,5,1,0,4,2,Active,,0
+EMP1081,Karan Pillai,Male,32,1992-03-13,Divorced,B.Sc,Bangalore,Sales,Sales Analyst,Priya Menon,Employee Referral,2019-10-11,,5.2,54589,Below Average,4.7,5,9,7,2,5,Active,,0
+EMP1082,Harsh Tiwari,Male,30,1994-11-26,Single,MBA,Mumbai,Sales,Sales Analyst,Priya Menon,Naukri.com,2018-12-02,2022-06-14,6.1,54583,Good,3.26,2,16,6,18,10,Voluntarily Resigned,No Growth,1
+EMP1083,Pooja Kumar,Female,38,1986-10-16,Divorced,M.Sc,Delhi,HR,L&D Specialist,Neha Gupta,Employee Referral,2015-12-05,,9.1,58139,Average,4.29,5,10,7,67,6,Active,,0
+EMP1084,Riya Pillai,Female,37,1987-04-08,Married,M.Tech,Chennai,Technology,Senior Software Engineer,Sneha Iyer,Campus Placement,2019-09-10,2023-06-21,5.3,134287,Below Average,2.68,3,22,3,62,5,Terminated,No Growth,1
+EMP1085,Simran Desai,Female,23,2001-05-23,Single,B.Com,Pune,Finance,Finance Manager,Kavya Reddy,Company Website,2016-06-15,,8.6,95371,Good,1.63,2,6,8,34,8,Active,,0
+EMP1086,Nikhil Verma,Male,43,1981-09-08,Married,M.Sc,Kolkata,HR,HR Manager,Rohit Verma,Naukri.com,2018-01-04,,7.0,70197,Good,3.4,4,3,2,0,8,Active,,0
+EMP1087,Nisha Desai,Female,42,1982-01-25,Divorced,B.Com,Ahmedabad,Operations,Operations Analyst,Vikram Singh,Recruitment Agency,2016-11-19,,8.1,49654,Excellent,1.63,2,13,2,4,6,Active,,0
+EMP1088,Sneha Sharma,Female,31,1993-10-20,Single,CA,Bangalore,Sales,Key Account Manager,Priya Menon,Recruitment Agency,2016-06-10,,8.6,66046,Average,2.76,2,16,7,34,3,Active,,0
+EMP1089,Anita Sharma,Female,45,1979-06-26,Divorced,B.Sc,Bangalore,HR,HR Business Partner,Neha Gupta,Employee Referral,2019-10-22,2020-09-16,5.2,55353,Average,2.26,5,20,6,54,8,Terminated,Contract End,1
+EMP1090,Aarav Reddy,Male,34,1990-04-15,Married,M.Sc,Bangalore,Sales,Sales Analyst,Rahul Sharma,Company Website,2019-06-10,2024-12-10,5.6,47199,Average,1.8,3,20,5,30,0,Voluntarily Resigned,Work-Life Balance,1
+EMP1091,Meera Pillai,Female,29,1995-04-05,Divorced,BBA,Hyderabad,Sales,Sales Analyst,Priya Menon,Indeed,2022-03-15,,2.8,52411,Good,3.73,4,22,8,60,12,Active,,0
+EMP1092,Gaurav Mishra,Male,38,1986-12-12,Divorced,MBA,Ahmedabad,Technology,Software Engineer,Arjun Nair,Recruitment Agency,2016-10-04,,8.2,80547,Average,4.92,5,17,2,21,5,Active,,0
+EMP1093,Neha Pandey,Female,36,1988-01-15,Divorced,BBA,Mumbai,Operations,Logistics Coordinator,Vikram Singh,Employee Referral,2017-09-14,2022-05-21,7.3,41469,Average,2.45,5,14,4,2,6,Voluntarily Resigned,Conflict with Manager,1
+EMP1094,Arjun Tiwari,Male,23,2001-05-14,Single,CA,Delhi,Technology,QA Engineer,Sneha Iyer,LinkedIn,2017-03-25,2023-01-23,7.8,86917,Good,1.77,3,12,7,48,6,Voluntarily Resigned,No Growth,1
+EMP1095,Aarav Sharma,Male,31,1993-08-22,Divorced,B.Tech,Bangalore,Technology,Data Analyst,Arjun Nair,Naukri.com,2023-07-18,,1.5,89337,Good,2.11,2,14,5,19,4,Active,,0
+EMP1096,Nikhil Nair,Male,24,2000-02-20,Divorced,B.Com,Mumbai,Sales,Sales Executive,Rahul Sharma,Naukri.com,2015-08-20,,9.4,56217,Excellent,2.38,1,12,7,29,8,Active,,0
+EMP1097,Tarun Kaur,Male,40,1984-10-25,Divorced,B.Sc,Delhi,Sales,Senior Sales Executive,Rahul Sharma,Indeed,2020-04-10,,4.7,85639,Average,2.48,4,9,4,7,8,Active,,0
+EMP1098,Swati Pandey,Female,32,1992-12-14,Single,M.Sc,Delhi,HR,HR Manager,Neha Gupta,Recruitment Agency,2021-03-10,,3.8,73727,Poor,4.08,5,15,3,28,4,Active,,0
+EMP1099,Ankita Pandey,Female,26,1998-07-08,Single,B.Tech,Kolkata,Finance,Finance Analyst,Kavya Reddy,Employee Referral,2019-04-11,2021-09-27,5.7,83442,Good,2.37,3,2,8,24,0,Voluntarily Resigned,Contract End,1
+EMP1100,Shruti Sharma,Female,28,1996-04-24,Married,M.Tech,Chennai,Technology,Data Analyst,Arjun Nair,Indeed,2016-12-25,,8.0,93346,Good,4.15,5,22,3,50,3,Active,,0
+EMP1101,Shruti Reddy,Female,33,1991-09-16,Single,B.Com,Hyderabad,Technology,QA Engineer,Sneha Iyer,LinkedIn,2022-02-26,,2.8,88873,Good,1.84,3,6,5,40,6,Active,,0
+EMP1102,Shruti Joshi,Female,28,1996-06-08,Married,M.Sc,Ahmedabad,Finance,Senior Finance Analyst,Kavya Reddy,Recruitment Agency,2021-10-27,,3.2,107442,Good,3.16,5,20,5,32,12,Active,,0
+EMP1103,Anita Joshi,Female,45,1979-09-16,Divorced,MBA,Hyderabad,Technology,Software Engineer,Arjun Nair,Naukri.com,2017-09-21,2020-03-09,7.3,83580,Good,3.66,1,21,0,0,6,Terminated,Contract End,1
+EMP1104,Harsh Pillai,Male,51,1973-08-22,Single,B.Sc,Mumbai,Finance,Financial Controller,Kavya Reddy,Employee Referral,2022-01-01,2022-09-28,3.0,91667,Average,1.66,1,0,8,35,8,Voluntarily Resigned,Relocation,1
+EMP1105,Harsh Pandey,Male,30,1994-06-09,Single,B.Tech,Bangalore,Sales,Key Account Manager,Priya Menon,Recruitment Agency,2021-02-12,,3.9,83759,Good,4.5,5,7,3,38,10,Active,,0
+EMP1106,Ankita Tiwari,Female,23,2001-11-01,Single,M.Tech,Ahmedabad,Operations,Logistics Coordinator,Anita Desai,Naukri.com,2017-02-16,,7.9,44533,Average,2.07,5,3,8,5,3,Active,,0
+EMP1107,Ankita Bhat,Female,43,1981-01-06,Married,CA,Kolkata,Technology,DevOps Engineer,Arjun Nair,Naukri.com,2020-01-07,,5.0,87012,Excellent,3.55,4,2,4,20,9,Active,,0
+EMP1108,Arjun Pandey,Male,45,1979-06-02,Married,M.Sc,Pune,Finance,Finance Analyst,Kavya Reddy,Company Website,2016-07-08,2022-07-07,8.5,66454,Below Average,3.51,5,24,6,41,0,Terminated,No Growth,1
+EMP1109,Tarun Rao,Male,24,2000-10-10,Single,MBA,Bangalore,Technology,Software Engineer,Sneha Iyer,Employee Referral,2018-12-03,,6.1,97553,Good,3.41,2,12,2,49,5,Active,,0
+EMP1110,Meera Reddy,Female,25,1999-03-03,Single,B.Sc,Chennai,Operations,Supply Chain Analyst,Anita Desai,LinkedIn,2017-07-15,2021-10-22,7.5,41650,Below Average,2.85,1,0,1,45,8,Voluntarily Resigned,Higher Salary Elsewhere,1
+EMP1111,Suresh Mehta,Male,26,1998-05-10,Married,CA,Bangalore,Sales,Sales Executive,Rahul Sharma,Recruitment Agency,2019-08-05,,5.4,53503,Excellent,2.62,4,8,6,38,7,Active,,0
+EMP1112,Aishwarya Pillai,Female,28,1996-08-04,Married,M.Tech,Delhi,Finance,Accountant,Kavya Reddy,Campus Placement,2017-05-01,,7.7,73142,Average,1.58,5,12,5,56,5,Active,,0
+EMP1113,Ankit Kaur,Male,27,1997-07-11,Divorced,B.Com,Hyderabad,Sales,Key Account Manager,Rahul Sharma,LinkedIn,2019-12-23,,5.0,71981,Excellent,3.94,3,12,4,50,5,Active,,0
+EMP1114,Pradeep Nair,Male,36,1988-05-27,Married,MBA,Kolkata,Sales,Key Account Manager,Rahul Sharma,Campus Placement,2016-07-22,,8.4,80327,Average,4.57,3,7,4,19,11,Active,,0
+EMP1115,Shreya Rao,Female,39,1985-09-28,Married,B.Sc,Mumbai,Operations,Process Manager,Vikram Singh,Company Website,2021-09-02,,3.3,71826,Good,2.12,1,24,3,45,2,Active,,0
+EMP1116,Kavya Sharma,Female,25,1999-05-08,Single,CA,Delhi,Marketing,Marketing Manager,Simran Kaur,Company Website,2023-12-17,,1.0,84503,Average,4.32,4,11,6,59,12,Active,,0
+EMP1117,Isha Singh,Female,25,1999-12-05,Single,CA,Ahmedabad,HR,HR Manager,Neha Gupta,Campus Placement,2020-05-11,,4.6,71385,Good,4.22,5,15,5,60,1,Active,,0
+EMP1118,Aarav Kaur,Male,42,1982-02-22,Divorced,B.Sc,Hyderabad,Technology,DevOps Engineer,Arjun Nair,Campus Placement,2017-12-08,,7.1,86391,Good,4.76,5,5,5,71,6,Active,,0
+EMP1119,Swati Sharma,Female,45,1979-10-07,Married,CA,Delhi,Sales,Key Account Manager,Rahul Sharma,LinkedIn,2022-10-14,2023-04-12,2.2,74137,Average,4.14,2,6,4,8,9,Terminated,Work-Life Balance,1
+EMP1120,Aishwarya Rao,Female,41,1983-07-19,Single,M.Tech,Hyderabad,Technology,Data Analyst,Arjun Nair,LinkedIn,2016-06-12,,8.6,93850,Excellent,4.66,3,19,1,17,5,Active,,0
+EMP1121,Gaurav Rao,Male,35,1989-10-05,Divorced,M.Sc,Chennai,Sales,Key Account Manager,Rahul Sharma,Naukri.com,2021-07-06,2023-07-26,3.5,82971,Good,4.63,5,5,7,36,2,Terminated,Better Opportunity,1
+EMP1122,Aakash Rao,Male,52,1972-09-17,Single,M.Tech,Hyderabad,Operations,Logistics Coordinator,Anita Desai,LinkedIn,2022-07-22,2024-03-13,2.4,52109,Good,1.54,4,15,2,10,9,Voluntarily Resigned,Work-Life Balance,1
+EMP1123,Shreya Tiwari,Female,39,1985-09-04,Divorced,MBA,Kolkata,Marketing,Marketing Manager,Aakash Mehta,Naukri.com,2016-05-25,,8.6,82609,Poor,3.51,5,24,0,56,8,Active,,0
+EMP1124,Manish Verma,Male,36,1988-05-12,Single,B.Com,Delhi,Technology,Software Engineer,Arjun Nair,Campus Placement,2016-08-28,,8.3,84510,Average,3.07,2,25,5,78,10,Active,,0
+EMP1125,Tarun Patel,Male,39,1985-05-20,Married,B.Tech,Kolkata,Operations,Process Manager,Anita Desai,Recruitment Agency,2023-03-11,,1.8,62368,Average,4.13,5,8,8,12,2,Active,,0
+EMP1126,Deepak Iyer,Male,26,1998-12-11,Divorced,MBA,Ahmedabad,Finance,Accountant,Deepak Joshi,Campus Placement,2018-11-13,,6.1,68529,Average,4.26,5,20,4,80,6,Active,,0
+EMP1127,Suresh Pandey,Male,45,1979-05-23,Married,BBA,Kolkata,Operations,Process Manager,Vikram Singh,Recruitment Agency,2020-08-16,,4.4,67536,Excellent,3.42,1,23,7,45,1,Active,,0
+EMP1128,Riya Kaur,Female,48,1976-05-11,Single,B.Tech,Ahmedabad,Technology,DevOps Engineer,Sneha Iyer,Company Website,2023-10-05,,1.2,78680,Good,4.61,3,21,0,5,1,Active,,0
+EMP1129,Pradeep Mishra,Male,22,2002-07-07,Married,B.Tech,Delhi,Technology,Senior Software Engineer,Sneha Iyer,Employee Referral,2017-11-10,,7.1,115657,Excellent,4.17,1,20,5,32,1,Active,,0
+EMP1130,Rajesh Singh,Male,44,1980-02-01,Married,MBA,Chennai,Operations,Operations Analyst,Vikram Singh,Company Website,2018-08-03,,6.4,45463,Average,1.85,5,21,7,1,0,Active,,0
+EMP1131,Neha Iyer,Female,34,1990-02-24,Married,B.Com,Mumbai,Operations,Process Manager,Anita Desai,Indeed,2016-02-11,,8.9,68873,Excellent,4.38,2,12,2,18,1,Active,,0
+EMP1132,Deepak Kumar,Male,41,1983-11-15,Married,BBA,Delhi,Sales,Senior Sales Executive,Rahul Sharma,Employee Referral,2018-02-04,,6.9,72459,Average,1.78,5,23,6,44,6,Active,,0
+EMP1133,Varun Pillai,Male,41,1983-12-20,Single,B.Tech,Pune,Sales,Sales Manager,Rahul Sharma,Campus Placement,2019-12-01,,5.1,67001,Average,4.82,5,19,8,24,11,Active,,0
+EMP1134,Nikhil Tiwari,Male,42,1982-10-03,Single,M.Sc,Delhi,Marketing,Brand Manager,Simran Kaur,Company Website,2023-01-12,2023-06-11,2.0,71873,Poor,4.14,4,18,6,46,8,Terminated,Better Opportunity,1
+EMP1135,Rohit Verma,Male,52,1972-07-17,Single,M.Tech,Delhi,Operations,Supply Chain Analyst,Anita Desai,Indeed,2019-11-23,2022-10-08,5.1,43811,Average,3.45,4,22,6,10,10,Voluntarily Resigned,Personal Reasons,1
+EMP1136,Swati Bhat,Female,42,1982-11-22,Divorced,M.Tech,Mumbai,Sales,Key Account Manager,Rahul Sharma,Campus Placement,2016-05-23,,8.6,74162,Good,4.67,1,7,1,55,1,Active,,0
+EMP1137,Vikram Sharma,Male,44,1980-03-23,Married,CA,Mumbai,Operations,Process Manager,Anita Desai,LinkedIn,2015-03-16,,9.8,67501,Excellent,3.14,2,11,2,34,11,Active,,0
+EMP1138,Siddharth Bhat,Male,42,1982-02-16,Single,MBA,Bangalore,Operations,Operations Executive,Anita Desai,Recruitment Agency,2022-09-12,,2.3,42629,Excellent,1.92,5,5,5,20,4,Active,,0
+EMP1139,Rohit Sharma,Male,29,1995-01-16,Married,CA,Kolkata,Finance,Senior Finance Analyst,Deepak Joshi,Naukri.com,2020-07-05,,4.5,103917,Average,3.54,5,25,6,28,5,Active,,0
+EMP1140,Kavya Pandey,Female,43,1981-01-06,Married,B.Tech,Ahmedabad,Marketing,Content Strategist,Simran Kaur,Indeed,2018-09-02,,6.3,56871,Poor,2.81,4,9,4,41,1,Active,,0
+EMP1141,Aishwarya Iyer,Female,36,1988-06-19,Married,B.Tech,Chennai,Technology,DevOps Engineer,Arjun Nair,Indeed,2022-04-24,2024-04-13,2.7,90745,Good,4.87,2,0,6,3,3,Terminated,No Growth,1
+EMP1142,Aakash Pandey,Male,29,1995-07-16,Divorced,MBA,Ahmedabad,HR,Talent Acquisition Specialist,Neha Gupta,Employee Referral,2015-03-23,2016-11-12,9.8,52793,Excellent,4.89,1,7,8,52,11,Voluntarily Resigned,No Growth,1
+EMP1143,Rajesh Joshi,Male,29,1995-05-09,Single,B.Com,Bangalore,Sales,Sales Manager,Priya Menon,Naukri.com,2020-07-23,,4.4,76699,Excellent,3.44,4,8,3,9,3,Active,,0
+EMP1144,Nisha Kumar,Female,25,1999-09-12,Married,BBA,Mumbai,Technology,Data Analyst,Sneha Iyer,Company Website,2018-08-10,2021-05-26,6.4,85595,Poor,3.33,1,2,2,38,11,Terminated,Conflict with Manager,1
+EMP1145,Manish Reddy,Male,48,1976-03-01,Single,BBA,Mumbai,Technology,QA Engineer,Arjun Nair,LinkedIn,2021-08-18,,3.4,96528,Good,3.7,1,14,1,17,1,Active,,0
+EMP1146,Meera Singh,Female,40,1984-10-09,Divorced,B.Com,Mumbai,Technology,Senior Software Engineer,Sneha Iyer,Campus Placement,2016-01-03,,9.0,132613,Good,4.65,2,2,5,15,0,Active,,0
+EMP1147,Sakshi Sharma,Female,34,1990-11-14,Married,M.Tech,Hyderabad,Finance,Senior Finance Analyst,Kavya Reddy,Indeed,2017-06-07,,7.6,118480,Good,2.16,3,14,2,4,9,Active,,0
+EMP1148,Sneha Singh,Female,30,1994-07-05,Divorced,M.Sc,Chennai,Operations,Supply Chain Analyst,Vikram Singh,Company Website,2021-04-21,,3.7,43437,Good,2.74,5,25,0,48,12,Active,,0
+EMP1149,Shreya Pandey,Female,32,1992-07-09,Single,BBA,Chennai,Operations,Supply Chain Analyst,Vikram Singh,Campus Placement,2017-01-11,2024-03-05,8.0,43642,Poor,4.95,1,25,4,7,12,Terminated,Personal Reasons,1
+EMP1150,Nikhil Bhat,Male,49,1975-07-12,Married,BBA,Delhi,Marketing,Marketing Manager,Aakash Mehta,Indeed,2017-03-08,,7.8,81532,Average,3.38,3,18,0,45,9,Active,,0
+EMP1151,Ankit Verma,Male,24,2000-01-08,Single,CA,Delhi,Technology,Data Analyst,Arjun Nair,Company Website,2018-01-17,2024-06-14,7.0,92723,Average,2.07,3,19,3,16,5,Voluntarily Resigned,Relocation,1
+EMP1152,Neha Patel,Female,44,1980-11-13,Single,CA,Delhi,Technology,Tech Lead,Arjun Nair,Employee Referral,2016-06-10,,8.6,118019,Below Average,4.38,2,23,6,62,10,Active,,0
+EMP1153,Suresh Desai,Male,45,1979-12-10,Married,MBA,Hyderabad,HR,HR Executive,Rohit Verma,Recruitment Agency,2017-03-24,2018-03-19,7.8,43690,Below Average,4.53,5,1,2,77,5,Terminated,Personal Reasons,1
+EMP1154,Anita Singh,Female,48,1976-12-22,Single,B.Tech,Bangalore,Operations,Process Manager,Vikram Singh,Recruitment Agency,2020-08-01,2024-08-10,4.4,77123,Excellent,1.59,2,22,1,44,4,Voluntarily Resigned,No Growth,1
+EMP1155,Sakshi Rao,Female,33,1991-09-13,Single,M.Tech,Chennai,Operations,Supply Chain Analyst,Vikram Singh,LinkedIn,2016-08-26,2018-08-16,8.4,51706,Poor,2.03,2,14,1,4,4,Voluntarily Resigned,No Growth,1
+EMP1156,Varun Singh,Male,32,1992-10-20,Married,BBA,Hyderabad,Marketing,Content Strategist,Simran Kaur,Employee Referral,2022-12-01,,2.1,59091,Good,2.83,5,13,2,6,1,Active,,0
+EMP1157,Shruti Desai,Female,29,1995-02-02,Single,BBA,Ahmedabad,Operations,Logistics Coordinator,Vikram Singh,Employee Referral,2021-10-18,2022-11-12,3.2,51404,Good,2.46,1,11,0,54,1,Voluntarily Resigned,Work-Life Balance,1
+EMP1158,Kavya Desai,Female,47,1977-07-16,Married,M.Tech,Mumbai,Sales,Sales Executive,Priya Menon,Campus Placement,2022-11-09,,2.1,57943,Excellent,4.53,2,11,6,47,2,Active,,0
+EMP1159,Siddharth Bhat,Male,23,2001-03-25,Divorced,M.Sc,Kolkata,HR,Talent Acquisition Specialist,Rohit Verma,Recruitment Agency,2016-02-22,,8.9,55028,Average,4.81,5,7,8,7,6,Active,,0
+EMP1160,Shruti Singh,Female,34,1990-12-02,Single,B.Com,Hyderabad,Sales,Sales Analyst,Rahul Sharma,Naukri.com,2023-10-17,2024-11-10,1.2,52417,Average,2.37,1,24,7,22,2,Voluntarily Resigned,No Growth,1
+EMP1161,Harsh Reddy,Male,32,1992-12-26,Single,B.Sc,Mumbai,Technology,DevOps Engineer,Sneha Iyer,Recruitment Agency,2016-02-13,,8.9,77386,Poor,3.62,5,10,4,66,7,Active,,0
+EMP1162,Tarun Bhat,Male,40,1984-02-04,Single,B.Tech,Ahmedabad,Technology,DevOps Engineer,Sneha Iyer,Indeed,2016-05-28,,8.6,84417,Good,3.85,4,8,6,62,9,Active,,0
+EMP1163,Harsh Pillai,Male,43,1981-12-13,Married,M.Tech,Pune,Operations,Operations Analyst,Vikram Singh,Recruitment Agency,2015-07-11,,9.5,40418,Excellent,3.85,4,8,5,2,5,Active,,0
+EMP1164,Nikhil Joshi,Male,31,1993-12-15,Divorced,B.Tech,Chennai,Operations,Logistics Coordinator,Vikram Singh,Campus Placement,2020-05-24,,4.6,58643,Good,4.2,2,14,3,52,11,Active,,0
+EMP1165,Manish Pandey,Male,34,1990-03-25,Married,BBA,Chennai,Operations,Operations Analyst,Vikram Singh,LinkedIn,2023-10-01,,1.3,51705,Good,3.46,2,1,3,4,7,Active,,0
+EMP1166,Pallavi Rao,Female,42,1982-02-22,Married,MBA,Pune,Operations,Logistics Coordinator,Anita Desai,Naukri.com,2015-04-12,2016-01-07,9.7,52351,Below Average,2.91,2,15,8,44,5,Voluntarily Resigned,Relocation,1
+EMP1167,Nikhil Nair,Male,30,1994-11-14,Divorced,M.Tech,Hyderabad,Technology,QA Engineer,Arjun Nair,LinkedIn,2023-01-28,,1.9,90404,Average,2.25,4,4,2,76,12,Active,,0
+EMP1168,Riya Kumar,Female,50,1974-07-28,Divorced,B.Tech,Bangalore,Technology,Senior Software Engineer,Sneha Iyer,Indeed,2020-08-09,,4.4,136501,Excellent,1.55,3,21,8,79,6,Active,,0
+EMP1169,Ankita Pillai,Female,41,1983-05-10,Divorced,B.Tech,Hyderabad,Finance,Finance Manager,Kavya Reddy,Naukri.com,2016-08-03,,8.4,109655,Good,3.03,3,8,4,38,3,Active,,0
+EMP1170,Simran Sharma,Female,42,1982-08-10,Divorced,M.Sc,Hyderabad,Finance,Accountant,Deepak Joshi,Company Website,2019-07-13,,5.5,64281,Below Average,2.72,5,22,3,43,11,Active,,0
+EMP1171,Anita Agarwal,Female,27,1997-05-04,Married,B.Sc,Pune,Technology,Tech Lead,Arjun Nair,Naukri.com,2022-03-24,,2.8,137772,Good,3.68,3,20,1,28,5,Active,,0
+EMP1172,Tanvi Gupta,Female,37,1987-01-28,Single,B.Com,Delhi,Technology,DevOps Engineer,Arjun Nair,Recruitment Agency,2016-08-07,,8.4,86063,Below Average,4.82,4,16,4,52,0,Active,,0
+EMP1173,Simran Kaur,Female,49,1975-12-06,Married,B.Com,Delhi,HR,HR Business Partner,Rohit Verma,Recruitment Agency,2016-08-11,,8.4,45631,Good,4.93,1,0,7,35,3,Active,,0
+EMP1174,Deepak Pillai,Male,35,1989-11-14,Divorced,B.Tech,Hyderabad,Sales,Key Account Manager,Rahul Sharma,Employee Referral,2021-07-16,2023-01-07,3.5,75077,Good,2.65,1,17,3,47,0,Terminated,Personal Reasons,1
+EMP1175,Simran Gupta,Female,34,1990-09-19,Married,B.Com,Kolkata,Sales,Sales Executive,Priya Menon,Employee Referral,2019-03-03,,5.8,46147,Excellent,1.95,3,14,8,76,8,Active,,0
+EMP1176,Meera Nair,Female,27,1997-07-01,Divorced,B.Sc,Mumbai,Sales,Senior Sales Executive,Rahul Sharma,Employee Referral,2018-04-24,2024-02-22,6.7,79284,Excellent,2.03,1,18,8,21,1,Voluntarily Resigned,Better Opportunity,1
+EMP1177,Aarav Verma,Male,44,1980-02-14,Married,M.Tech,Mumbai,Operations,Supply Chain Analyst,Anita Desai,Company Website,2022-07-04,,2.5,48325,Excellent,2.71,4,22,2,26,11,Active,,0
+EMP1178,Aishwarya Pillai,Female,44,1980-03-14,Divorced,M.Tech,Hyderabad,Sales,Sales Analyst,Rahul Sharma,Indeed,2016-09-24,,8.3,47838,Below Average,3.16,3,3,1,63,3,Active,,0
+EMP1179,Isha Desai,Female,27,1997-01-18,Single,B.Com,Ahmedabad,Finance,Accountant,Kavya Reddy,Recruitment Agency,2022-04-23,,2.7,70311,Excellent,1.64,2,0,0,11,1,Active,,0
+EMP1180,Vikram Reddy,Male,42,1982-04-15,Divorced,B.Sc,Chennai,Marketing,Marketing Executive,Simran Kaur,Company Website,2019-05-15,2020-01-10,5.6,58300,Excellent,2.48,2,1,4,46,12,Voluntarily Resigned,Better Opportunity,1
+EMP1181,Karan Patel,Male,50,1974-08-20,Married,M.Sc,Kolkata,Operations,Process Manager,Anita Desai,Employee Referral,2019-12-03,,5.1,67043,Good,2.77,2,3,6,51,7,Active,,0
+EMP1182,Vikram Joshi,Male,44,1980-12-02,Divorced,B.Tech,Chennai,Technology,DevOps Engineer,Sneha Iyer,Campus Placement,2017-02-14,,7.9,77632,Good,3.92,5,21,7,23,9,Active,,0
+EMP1183,Ankit Tiwari,Male,25,1999-07-15,Divorced,CA,Hyderabad,Technology,QA Engineer,Sneha Iyer,Indeed,2015-02-09,,9.9,80182,Below Average,4.72,1,22,8,73,11,Active,,0
+EMP1184,Rajesh Iyer,Male,37,1987-06-22,Single,B.Com,Ahmedabad,Marketing,Marketing Manager,Simran Kaur,Recruitment Agency,2021-03-27,,3.8,81926,Excellent,2.47,1,20,2,64,7,Active,,0
+EMP1185,Divya Kaur,Female,30,1994-01-17,Married,MBA,Ahmedabad,HR,HR Manager,Rohit Verma,Indeed,2018-09-21,,6.3,74877,Excellent,2.23,2,2,7,56,12,Active,,0
+EMP1186,Ankit Sharma,Male,25,1999-07-14,Married,CA,Ahmedabad,Sales,Sales Executive,Rahul Sharma,Naukri.com,2015-09-18,,9.3,55714,Good,3.2,5,19,4,65,8,Active,,0
+EMP1187,Pradeep Kaur,Male,39,1985-10-20,Divorced,CA,Pune,Sales,Sales Manager,Priya Menon,Employee Referral,2022-12-22,2023-08-19,2.0,66611,Good,4.12,1,3,3,0,5,Voluntarily Resigned,Contract End,1
+EMP1188,Kavya Reddy,Female,41,1983-04-07,Married,M.Sc,Bangalore,Marketing,Content Strategist,Simran Kaur,Recruitment Agency,2016-07-07,,8.5,70474,Excellent,2.38,3,3,6,5,10,Active,,0
+EMP1189,Ankit Sharma,Male,38,1986-12-02,Married,MBA,Delhi,Sales,Sales Analyst,Priya Menon,Company Website,2023-07-27,,1.4,54875,Good,3.36,5,24,2,74,2,Active,,0
+EMP1190,Pallavi Rao,Female,35,1989-10-23,Divorced,CA,Pune,Technology,Tech Lead,Sneha Iyer,Indeed,2018-05-13,,6.6,126456,Excellent,3.07,4,25,2,17,6,Active,,0
+EMP1191,Aakash Nair,Male,41,1983-12-10,Married,M.Tech,Kolkata,Operations,Operations Analyst,Anita Desai,Indeed,2020-11-05,,4.2,40117,Good,2.82,1,24,5,71,7,Active,,0
+EMP1192,Aarav Rao,Male,26,1998-01-22,Married,CA,Mumbai,Operations,Operations Analyst,Anita Desai,Recruitment Agency,2015-04-09,2024-08-19,9.7,47646,Excellent,2.63,3,4,0,37,3,Terminated,Personal Reasons,1
+EMP1193,Gaurav Desai,Male,44,1980-11-02,Divorced,BBA,Ahmedabad,Operations,Process Manager,Vikram Singh,Recruitment Agency,2021-07-14,,3.5,64237,Excellent,4.62,1,23,4,25,9,Active,,0
+EMP1194,Shreya Agarwal,Female,45,1979-10-07,Divorced,M.Tech,Kolkata,Marketing,Digital Marketing Analyst,Simran Kaur,LinkedIn,2018-05-15,,6.6,50435,Good,3.88,2,5,8,15,6,Active,,0
+EMP1195,Tarun Reddy,Male,22,2002-06-15,Divorced,MBA,Chennai,Technology,Tech Lead,Arjun Nair,Indeed,2017-01-05,,8.0,123424,Excellent,3.38,5,21,4,62,12,Active,,0
+EMP1196,Rahul Pandey,Male,24,2000-09-06,Divorced,BBA,Pune,Technology,Data Analyst,Arjun Nair,Employee Referral,2021-09-18,,3.3,96747,Good,4.11,3,7,3,42,5,Active,,0
+EMP1197,Vikram Patel,Male,36,1988-04-21,Divorced,CA,Mumbai,Sales,Sales Manager,Priya Menon,Employee Referral,2018-01-22,,6.9,69383,Good,2.77,1,12,4,69,11,Active,,0
+EMP1198,Sakshi Verma,Female,31,1993-11-07,Single,B.Sc,Hyderabad,Sales,Sales Executive,Rahul Sharma,Naukri.com,2020-09-03,,4.3,51316,Average,3.5,5,17,0,80,1,Active,,0
+EMP1199,Neha Joshi,Female,22,2002-08-23,Married,M.Tech,Hyderabad,Technology,Software Engineer,Arjun Nair,Indeed,2020-01-03,2023-07-16,5.0,74870,Excellent,2.04,2,25,4,71,1,Terminated,No Growth,1
+EMP1200,Priya Rao,Female,43,1981-02-18,Divorced,M.Tech,Pune,HR,L&D Specialist,Neha Gupta,LinkedIn,2015-11-24,2024-02-10,9.1,58096,Good,2.06,5,1,1,45,8,Terminated,Contract End,1
+EMP1201,Priya Tiwari,Female,27,1997-09-08,Single,MBA,Delhi,Operations,Supply Chain Analyst,Anita Desai,Recruitment Agency,2017-12-13,2024-06-09,7.1,44335,Excellent,4.64,2,9,5,1,8,Voluntarily Resigned,No Growth,1
+EMP1202,Pooja Patel,Female,28,1996-07-21,Divorced,M.Sc,Mumbai,Operations,Operations Analyst,Vikram Singh,Company Website,2023-03-06,,1.8,43205,Excellent,3.34,5,8,3,14,2,Active,,0
+EMP1203,Neha Reddy,Female,25,1999-04-24,Divorced,CA,Ahmedabad,Finance,Senior Finance Analyst,Deepak Joshi,Campus Placement,2022-06-12,,2.6,103509,Excellent,2.89,1,9,1,24,5,Active,,0
+EMP1204,Tarun Bhat,Male,33,1991-06-14,Married,M.Sc,Chennai,Marketing,Digital Marketing Analyst,Simran Kaur,Company Website,2017-01-11,,8.0,55550,Poor,4.53,4,8,5,17,10,Active,,0
+EMP1205,Sakshi Agarwal,Female,25,1999-03-21,Divorced,B.Sc,Mumbai,Technology,Senior Software Engineer,Arjun Nair,Recruitment Agency,2016-05-28,,8.6,118020,Excellent,3.84,3,23,1,9,0,Active,,0
+EMP1206,Varun Reddy,Male,39,1985-09-16,Divorced,B.Tech,Chennai,Marketing,Digital Marketing Analyst,Aakash Mehta,Campus Placement,2017-06-13,2024-02-07,7.6,59546,Below Average,3.45,2,14,8,65,1,Voluntarily Resigned,Relocation,1
+EMP1207,Anita Mehta,Female,40,1984-10-22,Single,BBA,Chennai,Sales,Key Account Manager,Priya Menon,Employee Referral,2017-12-24,,7.0,65717,Average,2.15,1,7,7,29,1,Active,,0
+EMP1208,Swati Tiwari,Female,51,1973-08-02,Divorced,CA,Kolkata,Sales,Sales Executive,Priya Menon,Campus Placement,2015-11-11,,9.1,54721,Good,2.99,3,18,8,72,2,Active,,0
+EMP1209,Gaurav Reddy,Male,34,1990-04-17,Single,BBA,Delhi,Technology,Tech Lead,Sneha Iyer,Campus Placement,2021-06-27,,3.5,108038,Excellent,3.64,4,19,0,64,2,Active,,0
+EMP1210,Pooja Joshi,Female,27,1997-03-12,Single,B.Sc,Delhi,Sales,Key Account Manager,Priya Menon,Indeed,2016-11-08,,8.2,75678,Good,3.53,1,15,7,61,3,Active,,0
+EMP1211,Tarun Bhat,Male,27,1997-03-21,Single,M.Tech,Mumbai,Finance,Senior Finance Analyst,Deepak Joshi,Indeed,2023-01-19,2024-11-09,2.0,100884,Good,1.68,2,8,2,66,6,Terminated,Contract End,1
+EMP1212,Nikhil Kumar,Male,41,1983-03-26,Married,BBA,Bangalore,Finance,Financial Controller,Kavya Reddy,Indeed,2017-10-22,2019-02-14,7.2,91954,Good,1.97,2,23,5,58,9,Voluntarily Resigned,Better Opportunity,1
+EMP1213,Simran Pillai,Female,25,1999-03-16,Divorced,B.Sc,Mumbai,HR,HR Executive,Neha Gupta,Recruitment Agency,2015-09-17,,9.3,53927,Good,3.89,4,21,2,77,8,Active,,0
+EMP1214,Gaurav Kumar,Male,29,1995-08-26,Divorced,M.Tech,Bangalore,Operations,Supply Chain Analyst,Vikram Singh,Naukri.com,2021-06-19,,3.5,44400,Average,3.58,4,4,4,61,12,Active,,0
+EMP1215,Riya Nair,Female,22,2002-12-24,Married,B.Com,Bangalore,Marketing,Marketing Executive,Simran Kaur,Employee Referral,2015-10-17,,9.2,43540,Good,4.75,4,20,3,40,6,Active,,0
+EMP1216,Riya Agarwal,Female,35,1989-10-12,Married,M.Tech,Ahmedabad,Finance,Senior Finance Analyst,Kavya Reddy,Employee Referral,2019-11-13,,5.1,95184,Average,4.88,5,25,8,61,2,Active,,0
+EMP1217,Simran Gupta,Female,45,1979-04-15,Married,B.Com,Mumbai,Technology,DevOps Engineer,Sneha Iyer,Company Website,2017-02-07,,7.9,88320,Below Average,2.13,3,25,8,78,11,Active,,0
+EMP1218,Arjun Joshi,Male,37,1987-10-14,Single,B.Tech,Pune,HR,HR Business Partner,Rohit Verma,Indeed,2016-02-09,,8.9,51678,Excellent,4.09,1,19,0,49,6,Active,,0
+EMP1219,Priya Nair,Female,49,1975-11-26,Single,B.Com,Mumbai,HR,HR Executive,Neha Gupta,Company Website,2023-05-07,,1.7,54638,Excellent,4.28,5,5,0,46,3,Active,,0
+EMP1220,Meera Rao,Female,34,1990-10-07,Divorced,BBA,Pune,Sales,Sales Executive,Rahul Sharma,Employee Referral,2023-01-24,,1.9,53380,Good,2.07,5,9,8,74,5,Active,,0
+EMP1221,Swati Bhat,Female,22,2002-05-06,Divorced,M.Tech,Pune,Technology,DevOps Engineer,Arjun Nair,Indeed,2021-09-04,,3.3,88497,Average,3.33,5,9,5,14,12,Active,,0
+EMP1222,Shreya Tiwari,Female,46,1978-04-25,Married,BBA,Hyderabad,Marketing,Content Strategist,Simran Kaur,Company Website,2020-08-22,,4.4,59389,Good,4.57,4,3,4,8,6,Active,,0
+EMP1223,Pallavi Agarwal,Female,22,2002-12-27,Divorced,BBA,Chennai,Sales,Sales Executive,Priya Menon,Employee Referral,2019-04-10,,5.7,57773,Good,2.82,3,2,8,22,7,Active,,0
+EMP1224,Ankit Nair,Male,29,1995-12-08,Divorced,B.Tech,Ahmedabad,Finance,Senior Finance Analyst,Deepak Joshi,LinkedIn,2019-04-08,,5.7,98217,Good,2.55,5,11,2,13,1,Active,,0
+EMP1225,Meera Pillai,Female,32,1992-08-19,Divorced,M.Sc,Kolkata,Sales,Sales Analyst,Priya Menon,Recruitment Agency,2019-08-06,2021-08-25,5.4,52285,Good,4.65,4,7,2,6,8,Voluntarily Resigned,No Growth,1
+EMP1226,Kavya Pandey,Female,36,1988-06-23,Divorced,B.Com,Pune,Marketing,Digital Marketing Analyst,Aakash Mehta,Recruitment Agency,2015-01-22,,9.9,64115,Good,3.4,5,3,5,46,9,Active,,0
+EMP1227,Sakshi Pillai,Female,32,1992-06-06,Single,BBA,Delhi,Sales,Key Account Manager,Priya Menon,Indeed,2022-07-07,,2.5,76766,Excellent,4.79,3,12,4,57,2,Active,,0
+EMP1228,Varun Kumar,Male,49,1975-07-07,Married,M.Sc,Chennai,Operations,Logistics Coordinator,Vikram Singh,Indeed,2017-12-05,,7.1,56008,Average,2.67,2,13,7,17,10,Active,,0
+EMP1229,Suresh Gupta,Male,44,1980-03-02,Single,CA,Pune,Technology,QA Engineer,Arjun Nair,Employee Referral,2018-05-16,,6.6,88072,Average,3.37,4,23,5,33,5,Active,,0
+EMP1230,Aishwarya Nair,Female,40,1984-10-21,Married,MBA,Ahmedabad,Marketing,Brand Manager,Aakash Mehta,Company Website,2023-03-25,,1.8,78025,Below Average,4.26,3,21,8,62,12,Active,,0
+EMP1231,Simran Mehta,Female,42,1982-06-14,Married,M.Tech,Kolkata,Marketing,Digital Marketing Analyst,Aakash Mehta,Employee Referral,2021-02-03,,3.9,53521,Good,4.1,2,10,5,37,11,Active,,0
+EMP1232,Shreya Pandey,Female,52,1972-08-14,Single,MBA,Kolkata,HR,HR Executive,Neha Gupta,Naukri.com,2017-03-28,2022-05-31,7.8,45760,Excellent,3.49,2,21,4,10,3,Voluntarily Resigned,Better Opportunity,1
+EMP1233,Pallavi Singh,Female,25,1999-05-20,Single,B.Com,Delhi,Technology,Data Analyst,Sneha Iyer,Naukri.com,2017-02-21,2021-01-31,7.9,89140,Good,4.37,2,7,4,56,10,Terminated,Conflict with Manager,1
+EMP1234,Ankita Reddy,Female,39,1985-08-05,Single,BBA,Ahmedabad,HR,L&D Specialist,Rohit Verma,Employee Referral,2023-03-19,,1.8,56835,Excellent,4.46,5,13,8,68,4,Active,,0
+EMP1235,Isha Reddy,Female,26,1998-05-01,Single,M.Tech,Ahmedabad,Sales,Senior Sales Executive,Priya Menon,Campus Placement,2015-09-27,,9.3,73834,Average,2.02,3,15,8,1,11,Active,,0
+EMP1236,Aishwarya Iyer,Female,47,1977-01-18,Married,MBA,Pune,Finance,Financial Controller,Kavya Reddy,Naukri.com,2020-04-14,,4.7,93765,Good,4.03,4,7,2,49,6,Active,,0
+EMP1237,Shruti Agarwal,Female,47,1977-05-14,Married,BBA,Ahmedabad,Sales,Senior Sales Executive,Priya Menon,Employee Referral,2018-02-06,2018-11-03,6.9,80443,Average,3.4,1,20,7,79,7,Voluntarily Resigned,Better Opportunity,1
+EMP1238,Manish Reddy,Male,26,1998-12-15,Married,CA,Ahmedabad,Marketing,Digital Marketing Analyst,Simran Kaur,Recruitment Agency,2015-04-03,,9.8,62523,Good,2.71,4,6,5,53,4,Active,,0
+EMP1239,Karan Singh,Male,48,1976-03-02,Married,B.Sc,Hyderabad,Technology,DevOps Engineer,Sneha Iyer,LinkedIn,2019-07-03,,5.5,71981,Good,4.82,2,6,4,48,0,Active,,0
+EMP1240,Aakash Mishra,Male,45,1979-02-17,Divorced,M.Sc,Pune,Technology,QA Engineer,Sneha Iyer,LinkedIn,2018-08-13,,6.4,96869,Excellent,3.55,3,5,0,70,8,Active,,0
+EMP1241,Sneha Nair,Female,25,1999-04-21,Married,B.Com,Ahmedabad,Finance,Senior Finance Analyst,Kavya Reddy,LinkedIn,2021-06-01,,3.6,120476,Excellent,4.55,5,3,6,31,0,Active,,0
+EMP1242,Rahul Tiwari,Male,24,2000-11-20,Divorced,CA,Hyderabad,Sales,Sales Executive,Priya Menon,Campus Placement,2020-11-02,,4.2,52799,Below Average,3.48,2,22,8,13,2,Active,,0
+EMP1243,Tanvi Nair,Female,22,2002-12-13,Divorced,BBA,Ahmedabad,Sales,Sales Manager,Rahul Sharma,Indeed,2020-12-05,2022-12-25,4.1,78189,Average,2.03,4,22,7,71,4,Terminated,Conflict with Manager,1
+EMP1244,Aishwarya Agarwal,Female,27,1997-02-17,Divorced,CA,Mumbai,Technology,Tech Lead,Sneha Iyer,Naukri.com,2017-08-10,,7.4,125626,Good,3.62,4,0,8,48,11,Active,,0
+EMP1245,Varun Rao,Male,28,1996-09-22,Single,B.Tech,Bangalore,Technology,DevOps Engineer,Sneha Iyer,Indeed,2022-09-05,,2.3,97608,Below Average,4.74,3,13,5,14,1,Active,,0
+EMP1246,Aakash Gupta,Male,37,1987-04-04,Single,B.Tech,Bangalore,Technology,Data Analyst,Sneha Iyer,Naukri.com,2015-10-21,,9.2,81614,Good,1.9,5,19,4,6,5,Active,,0
+EMP1247,Pradeep Verma,Male,33,1991-09-24,Divorced,MBA,Bangalore,Sales,Sales Executive,Priya Menon,Naukri.com,2021-06-26,,3.5,52458,Good,2.9,5,1,1,38,1,Active,,0
+EMP1248,Pooja Nair,Female,38,1986-11-08,Single,MBA,Kolkata,Marketing,Marketing Manager,Aakash Mehta,Company Website,2017-09-24,,7.3,87383,Excellent,2.67,1,24,5,58,11,Active,,0
+EMP1249,Pallavi Kaur,Female,43,1981-03-18,Divorced,B.Sc,Hyderabad,Technology,DevOps Engineer,Sneha Iyer,Naukri.com,2022-06-11,,2.6,77808,Good,4.72,3,13,6,41,9,Active,,0
+EMP1250,Meera Mishra,Female,36,1988-07-01,Divorced,B.Tech,Chennai,Technology,Software Engineer,Arjun Nair,Recruitment Agency,2015-05-20,,9.6,72923,Good,2.71,3,0,4,28,3,Active,,0
+EMP1251,Vikram Verma,Male,36,1988-06-05,Divorced,MBA,Hyderabad,Technology,DevOps Engineer,Arjun Nair,Campus Placement,2017-05-12,,7.6,82948,Good,3.08,2,8,4,11,9,Active,,0
+EMP1252,Anita Tiwari,Female,48,1976-12-23,Married,B.Sc,Chennai,HR,Talent Acquisition Specialist,Neha Gupta,Employee Referral,2016-10-21,,8.2,64179,Excellent,2.12,5,12,1,7,12,Active,,0
+EMP1253,Nikhil Pillai,Male,51,1973-01-21,Single,B.Com,Hyderabad,Marketing,Marketing Manager,Simran Kaur,Company Website,2021-01-10,,4.0,63879,Below Average,2.77,3,17,2,41,8,Active,,0
+EMP1254,Tanvi Pillai,Female,40,1984-09-03,Married,B.Sc,Mumbai,Marketing,Content Strategist,Simran Kaur,Company Website,2018-07-10,2024-01-10,6.5,61663,Good,3.71,2,10,1,60,9,Voluntarily Resigned,No Growth,1
+EMP1255,Ankit Agarwal,Male,28,1996-08-13,Divorced,MBA,Bangalore,Marketing,Marketing Manager,Simran Kaur,Company Website,2018-09-20,,6.3,78932,Excellent,4.99,2,2,4,55,5,Active,,0
+EMP1256,Meera Nair,Female,32,1992-06-20,Divorced,B.Com,Chennai,Sales,Sales Manager,Priya Menon,Naukri.com,2015-05-06,,9.7,68982,Good,3.58,5,4,7,5,3,Active,,0
+EMP1257,Rohit Iyer,Male,52,1972-10-05,Divorced,BBA,Hyderabad,Operations,Operations Executive,Anita Desai,Company Website,2019-01-11,,6.0,46857,Good,4.64,4,15,0,42,3,Active,,0
+EMP1258,Ankita Tiwari,Female,41,1983-12-05,Married,B.Tech,Pune,HR,L&D Specialist,Neha Gupta,Recruitment Agency,2015-07-19,,9.5,54867,Good,2.17,3,5,0,36,3,Active,,0
+EMP1259,Arjun Rao,Male,43,1981-05-22,Single,B.Com,Bangalore,Technology,Tech Lead,Sneha Iyer,Campus Placement,2020-02-01,,4.9,123188,Good,1.73,2,12,8,12,5,Active,,0
+EMP1260,Ankita Sharma,Female,23,2001-04-17,Single,M.Tech,Hyderabad,Operations,Logistics Coordinator,Vikram Singh,Employee Referral,2019-06-16,,5.5,49174,Average,3.09,1,11,5,45,10,Active,,0
+EMP1261,Priya Agarwal,Female,52,1972-05-08,Single,B.Sc,Hyderabad,Technology,QA Engineer,Arjun Nair,Indeed,2017-06-13,,7.6,65352,Good,3.46,1,23,6,66,10,Active,,0
+EMP1262,Shruti Pillai,Female,32,1992-08-18,Married,B.Com,Delhi,Finance,Senior Finance Analyst,Deepak Joshi,Recruitment Agency,2017-04-21,2023-02-19,7.7,109913,Excellent,2.14,2,9,8,17,6,Voluntarily Resigned,Higher Salary Elsewhere,1
+EMP1263,Simran Sharma,Female,46,1978-06-14,Divorced,BBA,Pune,Sales,Sales Manager,Rahul Sharma,Recruitment Agency,2021-05-15,,3.6,67236,Average,2.93,2,3,2,23,0,Active,,0
+EMP1264,Amit Singh,Male,44,1980-08-05,Married,B.Tech,Hyderabad,Operations,Process Manager,Vikram Singh,Naukri.com,2023-10-16,,1.2,63555,Excellent,2.05,4,15,7,17,2,Active,,0
+EMP1265,Siddharth Kumar,Male,29,1995-12-22,Divorced,B.Tech,Kolkata,Sales,Senior Sales Executive,Priya Menon,Campus Placement,2018-04-03,,6.8,80826,Excellent,2.28,5,15,5,58,3,Active,,0
+EMP1266,Nisha Rao,Female,41,1983-12-19,Divorced,B.Tech,Kolkata,Finance,Finance Analyst,Deepak Joshi,Indeed,2023-09-21,,1.3,78134,Good,3.85,4,14,0,31,8,Active,,0
+EMP1267,Aakash Desai,Male,36,1988-07-10,Divorced,MBA,Ahmedabad,Marketing,Content Strategist,Aakash Mehta,Recruitment Agency,2019-08-06,,5.4,58747,Average,2.33,5,1,8,18,7,Active,,0
+EMP1268,Tarun Agarwal,Male,26,1998-07-14,Divorced,B.Com,Chennai,Finance,Senior Finance Analyst,Kavya Reddy,Employee Referral,2020-08-01,,4.4,105217,Excellent,2.35,5,22,3,58,1,Active,,0
+EMP1269,Vikram Mishra,Male,42,1982-06-03,Single,B.Com,Chennai,Finance,Financial Controller,Deepak Joshi,Naukri.com,2023-12-13,,1.1,106945,Average,2.89,4,17,6,5,12,Active,,0
+EMP1270,Rohit Kumar,Male,31,1993-05-24,Married,M.Sc,Mumbai,Sales,Senior Sales Executive,Rahul Sharma,Employee Referral,2022-05-21,,2.6,77976,Average,2.22,2,6,0,79,12,Active,,0
+EMP1271,Harsh Tiwari,Male,29,1995-04-19,Single,B.Tech,Hyderabad,Technology,Data Analyst,Arjun Nair,Employee Referral,2022-08-14,2024-07-04,2.4,90007,Excellent,1.8,5,19,0,31,8,Voluntarily Resigned,Conflict with Manager,1
+EMP1272,Rohit Bhat,Male,48,1976-10-10,Divorced,M.Sc,Delhi,Operations,Operations Executive,Anita Desai,Company Website,2020-02-02,,4.9,45512,Good,1.59,2,5,4,78,10,Active,,0
+EMP1273,Arjun Desai,Male,32,1992-06-13,Divorced,CA,Pune,Sales,Sales Analyst,Rahul Sharma,Recruitment Agency,2016-07-27,,8.4,53713,Good,4.62,3,15,2,15,11,Active,,0
+EMP1274,Aakash Pillai,Male,23,2001-02-19,Divorced,B.Com,Chennai,Finance,Financial Controller,Kavya Reddy,Indeed,2023-02-16,,1.9,91641,Average,2.7,4,19,5,33,8,Active,,0
+EMP1275,Sakshi Mehta,Female,50,1974-10-08,Single,B.Sc,Kolkata,Sales,Sales Executive,Rahul Sharma,Indeed,2019-04-01,2021-09-17,5.8,48931,Good,2.44,4,20,1,26,12,Voluntarily Resigned,Better Opportunity,1
+EMP1276,Riya Singh,Female,31,1993-05-17,Married,BBA,Delhi,Technology,Software Engineer,Arjun Nair,LinkedIn,2023-06-25,,1.5,74795,Average,2.93,3,10,6,72,9,Active,,0
+EMP1277,Sakshi Verma,Female,42,1982-03-16,Single,B.Tech,Chennai,Operations,Supply Chain Analyst,Anita Desai,Employee Referral,2017-11-15,,7.1,38139,Good,4.82,4,25,6,7,8,Active,,0
+EMP1278,Meera Singh,Female,26,1998-05-27,Divorced,CA,Pune,Technology,QA Engineer,Arjun Nair,LinkedIn,2015-06-13,2019-12-19,9.6,98393,Average,1.99,5,19,6,23,9,Terminated,Higher Salary Elsewhere,1
+EMP1279,Amit Mishra,Male,48,1976-05-07,Divorced,M.Sc,Mumbai,Operations,Operations Executive,Anita Desai,Indeed,2023-05-06,2024-05-30,1.7,46643,Below Average,4.3,1,24,3,11,7,Terminated,Contract End,1
+EMP1280,Simran Gupta,Female,48,1976-09-22,Married,MBA,Mumbai,Finance,Finance Analyst,Kavya Reddy,Employee Referral,2017-04-24,,7.7,77084,Good,1.58,4,22,8,14,0,Active,,0
+EMP1281,Vikram Pandey,Male,46,1978-11-24,Divorced,M.Sc,Chennai,Technology,Tech Lead,Arjun Nair,Indeed,2019-01-19,2020-11-09,6.0,126424,Average,2.4,3,6,3,36,4,Terminated,Relocation,1
+EMP1282,Aarav Pillai,Male,39,1985-09-04,Divorced,M.Tech,Bangalore,Sales,Sales Analyst,Priya Menon,Naukri.com,2018-09-12,,6.3,44264,Excellent,4.42,3,4,4,73,3,Active,,0
+EMP1283,Sneha Joshi,Female,22,2002-08-22,Married,CA,Ahmedabad,Operations,Operations Executive,Vikram Singh,Company Website,2015-02-13,2017-06-02,9.9,46876,Excellent,2.45,4,12,2,76,9,Terminated,Higher Salary Elsewhere,1
+EMP1284,Arjun Mishra,Male,25,1999-08-10,Married,CA,Chennai,Finance,Senior Finance Analyst,Deepak Joshi,Company Website,2022-08-08,,2.4,104111,Excellent,4.7,5,8,5,50,2,Active,,0
+EMP1285,Ankit Gupta,Male,33,1991-08-15,Divorced,M.Tech,Bangalore,Operations,Process Manager,Vikram Singh,Indeed,2017-05-25,,7.6,68618,Good,3.44,5,3,6,13,5,Active,,0
+EMP1286,Divya Pillai,Female,29,1995-09-06,Divorced,B.Com,Hyderabad,Operations,Process Manager,Vikram Singh,Employee Referral,2022-07-03,,2.5,62512,Average,4.4,5,13,6,72,12,Active,,0
+EMP1287,Kavya Bhat,Female,41,1983-08-11,Married,CA,Kolkata,Finance,Accountant,Deepak Joshi,Company Website,2023-02-27,,1.8,79997,Average,3.83,3,12,1,76,1,Active,,0
+EMP1288,Arjun Nair,Male,48,1976-03-19,Divorced,BBA,Hyderabad,Sales,Senior Sales Executive,Priya Menon,Campus Placement,2015-03-22,,9.8,81099,Excellent,4.7,5,9,6,78,9,Active,,0
+EMP1289,Shreya Desai,Female,51,1973-07-23,Single,CA,Mumbai,Operations,Operations Executive,Anita Desai,LinkedIn,2020-02-19,,4.9,39141,Good,1.66,2,9,0,47,8,Active,,0
+EMP1290,Nikhil Kumar,Male,44,1980-10-13,Married,B.Sc,Hyderabad,Technology,Data Analyst,Sneha Iyer,Naukri.com,2020-12-13,,4.1,75775,Excellent,4.08,4,17,3,22,7,Active,,0
+EMP1291,Manish Joshi,Male,26,1998-01-03,Married,B.Com,Kolkata,Sales,Key Account Manager,Priya Menon,Recruitment Agency,2015-03-24,,9.8,76483,Good,2.86,2,2,2,53,7,Active,,0
+EMP1292,Swati Patel,Female,29,1995-03-14,Single,CA,Ahmedabad,Sales,Senior Sales Executive,Priya Menon,Indeed,2015-10-16,,9.2,71018,Good,2.74,4,17,5,4,0,Active,,0
+EMP1293,Deepak Pandey,Male,49,1975-05-15,Married,B.Tech,Pune,Operations,Supply Chain Analyst,Vikram Singh,Indeed,2023-02-17,,1.9,42740,Good,3.17,2,15,1,69,12,Active,,0
+EMP1294,Ankit Mishra,Male,38,1986-08-19,Divorced,B.Com,Ahmedabad,HR,Talent Acquisition Specialist,Rohit Verma,LinkedIn,2020-07-12,2022-04-03,4.5,60795,Average,4.78,2,1,4,72,4,Terminated,Better Opportunity,1
+EMP1295,Neha Joshi,Female,38,1986-02-28,Married,M.Sc,Delhi,Technology,DevOps Engineer,Sneha Iyer,Naukri.com,2019-05-05,,5.7,78976,Excellent,2.42,3,8,0,14,9,Active,,0
+EMP1296,Divya Tiwari,Female,27,1997-09-28,Single,B.Com,Ahmedabad,Sales,Senior Sales Executive,Rahul Sharma,Company Website,2015-06-03,,9.6,79461,Good,1.68,4,24,6,49,3,Active,,0
+EMP1297,Sneha Reddy,Female,46,1978-02-02,Married,M.Sc,Kolkata,HR,HR Manager,Rohit Verma,Company Website,2017-08-13,,7.4,85580,Good,4.2,4,23,8,29,6,Active,,0
+EMP1298,Priya Desai,Female,51,1973-08-13,Married,CA,Pune,Finance,Finance Analyst,Deepak Joshi,Company Website,2020-09-22,2021-06-19,4.3,69600,Excellent,1.76,5,20,5,55,9,Terminated,Work-Life Balance,1
+EMP1299,Divya Bhat,Female,46,1978-04-17,Divorced,MBA,Bangalore,Technology,Senior Software Engineer,Sneha Iyer,Campus Placement,2020-11-23,,4.1,123167,Average,3.02,5,0,0,8,0,Active,,0
+EMP1300,Manish Reddy,Male,28,1996-01-01,Divorced,MBA,Delhi,Sales,Senior Sales Executive,Rahul Sharma,Recruitment Agency,2016-01-20,2019-05-04,9.0,85670,Good,4.37,1,2,2,48,10,Voluntarily Resigned,Contract End,1
+EMP1301,Riya Kumar,Female,44,1980-11-25,Married,B.Com,Pune,Technology,Software Engineer,Sneha Iyer,Employee Referral,2020-05-06,2021-07-30,4.7,90306,Good,3.57,1,12,6,42,0,Voluntarily Resigned,No Growth,1
+EMP1302,Kavya Joshi,Female,39,1985-07-07,Married,B.Tech,Ahmedabad,Technology,Tech Lead,Arjun Nair,Employee Referral,2016-08-23,2023-07-18,8.4,132739,Good,1.82,1,2,1,73,11,Voluntarily Resigned,Better Opportunity,1
+EMP1303,Riya Joshi,Female,44,1980-06-13,Single,M.Sc,Kolkata,Finance,Accountant,Kavya Reddy,LinkedIn,2015-09-23,,9.3,77419,Excellent,3.4,4,12,1,69,3,Active,,0
+EMP1304,Nisha Desai,Female,34,1990-01-21,Divorced,B.Sc,Mumbai,Operations,Process Manager,Vikram Singh,Indeed,2016-06-18,2024-01-08,8.5,70827,Below Average,4.06,4,24,4,25,2,Voluntarily Resigned,No Growth,1
+EMP1305,Sakshi Singh,Female,50,1974-11-15,Divorced,M.Sc,Pune,Sales,Senior Sales Executive,Rahul Sharma,Recruitment Agency,2018-03-02,,6.8,78646,Average,4.47,5,7,7,49,1,Active,,0
+EMP1306,Priya Verma,Female,32,1992-01-11,Divorced,M.Sc,Delhi,Operations,Operations Analyst,Anita Desai,Company Website,2015-07-04,2022-03-29,9.5,51296,Good,3.21,5,4,3,9,0,Voluntarily Resigned,Better Opportunity,1
+EMP1307,Aarav Mehta,Male,42,1982-01-10,Single,MBA,Hyderabad,Technology,Senior Software Engineer,Arjun Nair,Indeed,2016-08-20,,8.4,127581,Excellent,3.49,1,3,7,76,12,Active,,0
+EMP1308,Nisha Gupta,Female,43,1981-10-18,Single,B.Sc,Delhi,Operations,Operations Analyst,Vikram Singh,Employee Referral,2017-06-27,,7.5,47663,Below Average,1.62,5,5,5,8,1,Active,,0
+EMP1309,Pradeep Iyer,Male,51,1973-10-02,Divorced,MBA,Delhi,Sales,Sales Analyst,Priya Menon,LinkedIn,2017-02-26,,7.8,47183,Below Average,4.9,2,0,7,10,0,Active,,0
+EMP1310,Isha Tiwari,Female,44,1980-03-07,Divorced,M.Sc,Delhi,Operations,Supply Chain Analyst,Anita Desai,LinkedIn,2017-11-09,,7.1,51181,Below Average,3.16,4,7,2,78,11,Active,,0
+EMP1311,Meera Kumar,Female,22,2002-09-08,Single,M.Tech,Hyderabad,Operations,Operations Executive,Anita Desai,Company Website,2018-02-17,,6.9,46917,Good,4.4,5,16,3,59,12,Active,,0
+EMP1312,Ankit Tiwari,Male,27,1997-03-22,Single,B.Tech,Ahmedabad,Sales,Sales Manager,Priya Menon,Recruitment Agency,2015-01-21,,10.0,75572,Excellent,3.59,2,13,4,42,9,Active,,0
+EMP1313,Rahul Sharma,Male,37,1987-09-04,Single,BBA,Chennai,Technology,Data Analyst,Sneha Iyer,LinkedIn,2016-04-24,,8.7,82197,Excellent,3.94,4,6,5,29,12,Active,,0
+EMP1314,Pooja Rao,Female,50,1974-04-03,Divorced,M.Sc,Delhi,Operations,Operations Executive,Anita Desai,Employee Referral,2022-10-16,2023-12-10,2.2,45513,Good,4.04,2,6,7,22,6,Voluntarily Resigned,Work-Life Balance,1
+EMP1315,Simran Verma,Female,44,1980-10-02,Divorced,B.Com,Delhi,Marketing,Content Strategist,Aakash Mehta,Indeed,2019-03-04,,5.8,60841,Good,4.27,4,5,5,28,4,Active,,0
+EMP1316,Arjun Kumar,Male,49,1975-09-16,Divorced,BBA,Kolkata,Finance,Accountant,Kavya Reddy,Employee Referral,2018-10-16,,6.2,74570,Good,3.69,1,23,6,31,3,Active,,0
+EMP1317,Rajesh Verma,Male,23,2001-08-24,Divorced,B.Tech,Bangalore,Operations,Supply Chain Analyst,Anita Desai,Naukri.com,2023-01-14,,2.0,47910,Good,1.59,4,25,1,57,7,Active,,0
+EMP1318,Deepak Patel,Male,31,1993-04-21,Married,M.Sc,Mumbai,Technology,QA Engineer,Sneha Iyer,Indeed,2016-01-16,,9.0,92261,Below Average,1.57,2,22,7,73,11,Active,,0
+EMP1319,Anita Patel,Female,42,1982-08-23,Divorced,MBA,Hyderabad,Sales,Key Account Manager,Priya Menon,Employee Referral,2015-11-03,,9.2,75877,Below Average,4.3,5,1,4,54,12,Active,,0
+EMP1320,Gaurav Patel,Male,50,1974-01-04,Married,B.Com,Hyderabad,Operations,Supply Chain Analyst,Vikram Singh,LinkedIn,2021-06-15,2022-04-11,3.5,51232,Poor,2.73,3,11,2,71,11,Voluntarily Resigned,Contract End,1
+EMP1321,Karan Patel,Male,50,1974-05-17,Divorced,M.Sc,Bangalore,Sales,Sales Executive,Priya Menon,Recruitment Agency,2021-05-02,,3.7,49799,Good,3.7,3,14,7,64,8,Active,,0
+EMP1322,Tanvi Pillai,Female,33,1991-11-23,Divorced,MBA,Pune,Operations,Operations Executive,Vikram Singh,Naukri.com,2016-04-15,2018-02-04,8.7,52662,Below Average,4.94,4,5,4,9,1,Voluntarily Resigned,Personal Reasons,1
+EMP1323,Isha Agarwal,Female,51,1973-03-16,Divorced,B.Sc,Chennai,HR,HR Executive,Rohit Verma,Company Website,2020-07-15,,4.5,47539,Good,4.08,2,2,0,29,8,Active,,0
+EMP1324,Sakshi Bhat,Female,43,1981-12-17,Single,B.Tech,Pune,Sales,Sales Manager,Rahul Sharma,Employee Referral,2023-08-15,,1.4,83829,Good,1.89,3,5,4,29,7,Active,,0
+EMP1325,Anita Pillai,Female,51,1973-03-23,Married,M.Sc,Delhi,Marketing,Digital Marketing Analyst,Simran Kaur,Indeed,2023-05-06,2024-01-31,1.7,49131,Good,2.32,2,7,1,5,5,Terminated,Better Opportunity,1
+EMP1326,Simran Patel,Female,36,1988-09-06,Divorced,CA,Mumbai,Sales,Sales Executive,Priya Menon,Naukri.com,2023-05-04,,1.7,47937,Excellent,1.56,4,24,2,58,5,Active,,0
+EMP1327,Shruti Bhat,Female,43,1981-03-26,Married,BBA,Kolkata,Technology,Software Engineer,Sneha Iyer,LinkedIn,2022-06-23,,2.5,85236,Good,3.88,1,4,8,14,4,Active,,0
+EMP1328,Sneha Pillai,Female,42,1982-04-19,Single,B.Sc,Bangalore,HR,Talent Acquisition Specialist,Neha Gupta,Company Website,2023-04-26,,1.7,56288,Good,4.82,1,2,8,57,10,Active,,0
+EMP1329,Amit Rao,Male,26,1998-12-28,Divorced,BBA,Bangalore,Marketing,Brand Manager,Simran Kaur,Recruitment Agency,2021-06-13,,3.6,86702,Below Average,3.14,3,11,5,39,7,Active,,0
+EMP1330,Tanvi Desai,Female,27,1997-12-14,Single,B.Sc,Bangalore,Marketing,Marketing Manager,Simran Kaur,Employee Referral,2021-03-27,2024-10-07,3.8,79273,Average,2.08,2,6,4,60,8,Terminated,Work-Life Balance,1
+EMP1331,Varun Mishra,Male,44,1980-10-25,Single,M.Sc,Ahmedabad,Operations,Logistics Coordinator,Anita Desai,Employee Referral,2017-04-06,2017-07-05,7.7,52865,Average,3.29,5,15,0,38,9,Terminated,Relocation,1
+EMP1332,Sakshi Gupta,Female,42,1982-11-10,Divorced,M.Sc,Chennai,Finance,Senior Finance Analyst,Deepak Joshi,Indeed,2021-03-16,2022-10-07,3.8,105241,Good,2.12,1,24,4,63,1,Voluntarily Resigned,Contract End,1
+EMP1333,Pallavi Bhat,Female,22,2002-05-06,Married,B.Tech,Chennai,HR,HR Manager,Neha Gupta,Campus Placement,2015-03-11,,9.8,68072,Average,2.73,3,5,0,34,5,Active,,0
+EMP1334,Gaurav Nair,Male,46,1978-11-06,Divorced,MBA,Chennai,Sales,Senior Sales Executive,Priya Menon,Company Website,2016-10-25,,8.2,72178,Excellent,4.89,3,21,4,34,10,Active,,0
+EMP1335,Aarav Joshi,Male,38,1986-05-12,Married,B.Sc,Bangalore,Sales,Senior Sales Executive,Rahul Sharma,Recruitment Agency,2022-07-11,,2.5,83638,Average,2.04,2,4,8,28,3,Active,,0
+EMP1336,Deepak Sharma,Male,37,1987-06-10,Single,BBA,Bangalore,Operations,Logistics Coordinator,Anita Desai,Recruitment Agency,2020-03-27,,4.8,49032,Average,2.29,2,22,4,3,11,Active,,0
+EMP1337,Nikhil Desai,Male,26,1998-04-05,Divorced,B.Tech,Bangalore,Technology,Software Engineer,Arjun Nair,Naukri.com,2016-07-23,,8.4,87042,Good,3.53,1,24,7,55,0,Active,,0
+EMP1338,Ankit Gupta,Male,51,1973-05-02,Single,B.Tech,Chennai,Operations,Operations Executive,Vikram Singh,Naukri.com,2016-05-22,2024-06-09,8.6,40494,Excellent,4.57,1,19,3,75,3,Terminated,Work-Life Balance,1
+EMP1339,Anita Pandey,Female,46,1978-12-20,Single,M.Tech,Hyderabad,Technology,Software Engineer,Arjun Nair,Company Website,2018-09-19,,6.3,80842,Below Average,4.84,5,24,0,67,3,Active,,0
+EMP1340,Vikram Nair,Male,51,1973-09-28,Divorced,BBA,Kolkata,Finance,Financial Controller,Deepak Joshi,Campus Placement,2022-06-23,2022-12-20,2.5,98375,Below Average,4.33,4,21,1,23,5,Voluntarily Resigned,Conflict with Manager,1
+EMP1341,Kavya Pandey,Female,26,1998-08-25,Divorced,M.Tech,Ahmedabad,Technology,DevOps Engineer,Arjun Nair,Employee Referral,2020-12-10,,4.1,90504,Excellent,2.93,1,10,7,14,6,Active,,0
+EMP1342,Divya Agarwal,Female,35,1989-05-28,Divorced,M.Sc,Kolkata,Technology,Software Engineer,Sneha Iyer,LinkedIn,2021-04-28,,3.7,100777,Good,2.41,3,5,0,62,10,Active,,0
+EMP1343,Vikram Joshi,Male,34,1990-07-23,Divorced,B.Sc,Hyderabad,Sales,Sales Executive,Priya Menon,LinkedIn,2016-12-06,,8.1,52046,Excellent,2.27,2,10,3,76,6,Active,,0
+EMP1344,Swati Patel,Female,37,1987-11-20,Single,B.Com,Hyderabad,Operations,Process Manager,Vikram Singh,Campus Placement,2021-08-17,2022-02-13,3.4,76931,Average,1.77,4,3,1,32,7,Terminated,Higher Salary Elsewhere,1
+EMP1345,Rahul Rao,Male,41,1983-11-11,Divorced,M.Tech,Hyderabad,Marketing,Marketing Manager,Simran Kaur,Campus Placement,2017-05-20,,7.6,80498,Good,3.57,1,21,8,63,12,Active,,0
+EMP1346,Ankita Kaur,Female,47,1977-09-18,Divorced,B.Com,Mumbai,Marketing,Marketing Executive,Aakash Mehta,LinkedIn,2015-01-14,,10.0,61694,Average,2.72,4,10,6,56,7,Active,,0
+EMP1347,Anita Tiwari,Female,35,1989-03-10,Married,B.Tech,Delhi,HR,HR Executive,Rohit Verma,Campus Placement,2021-08-25,,3.4,52500,Good,4.58,5,21,8,73,7,Active,,0
+EMP1348,Aishwarya Patel,Female,46,1978-05-11,Married,B.Sc,Bangalore,Sales,Sales Executive,Rahul Sharma,Campus Placement,2015-01-19,,10.0,60768,Average,3.8,3,11,0,80,5,Active,,0
+EMP1349,Meera Verma,Female,43,1981-04-08,Married,B.Tech,Chennai,Sales,Sales Analyst,Rahul Sharma,LinkedIn,2018-11-10,,6.1,56007,Average,3.88,1,9,1,43,2,Active,,0
+EMP1350,Shreya Pandey,Female,50,1974-07-09,Divorced,MBA,Ahmedabad,Sales,Sales Analyst,Rahul Sharma,LinkedIn,2015-12-16,,9.0,54553,Average,4.13,3,12,6,41,9,Active,,0
+EMP1351,Sakshi Pandey,Female,47,1977-11-11,Married,B.Tech,Pune,Sales,Sales Manager,Priya Menon,Employee Referral,2017-10-10,,7.2,74430,Good,4.1,2,15,1,68,3,Active,,0
+EMP1352,Divya Pillai,Female,45,1979-02-23,Divorced,MBA,Chennai,Operations,Process Manager,Vikram Singh,Naukri.com,2016-10-11,,8.2,68362,Excellent,4.36,5,25,8,60,6,Active,,0
+EMP1353,Isha Agarwal,Female,32,1992-04-14,Single,M.Sc,Delhi,Operations,Supply Chain Analyst,Anita Desai,Indeed,2021-05-20,,3.6,46919,Excellent,2.5,5,5,0,80,11,Active,,0
+EMP1354,Riya Agarwal,Female,47,1977-10-28,Married,B.Sc,Pune,Sales,Sales Executive,Rahul Sharma,Company Website,2021-10-24,,3.2,58132,Average,4.93,3,14,2,30,2,Active,,0
+EMP1355,Aakash Kumar,Male,30,1994-05-21,Married,M.Tech,Hyderabad,Finance,Financial Controller,Deepak Joshi,LinkedIn,2017-05-22,,7.6,90793,Average,3.39,4,7,1,19,3,Active,,0
+EMP1356,Isha Verma,Female,28,1996-03-09,Divorced,CA,Bangalore,HR,Talent Acquisition Specialist,Neha Gupta,Recruitment Agency,2017-01-09,2017-12-05,8.0,59104,Average,1.87,1,23,7,2,0,Terminated,No Growth,1
+EMP1357,Suresh Joshi,Male,29,1995-02-19,Divorced,CA,Chennai,Technology,QA Engineer,Sneha Iyer,Recruitment Agency,2023-02-17,,1.9,87395,Poor,2.7,4,2,3,76,1,Active,,0
+EMP1358,Rajesh Nair,Male,26,1998-02-06,Divorced,CA,Bangalore,Operations,Logistics Coordinator,Anita Desai,Company Website,2018-05-15,,6.6,60202,Average,4.76,5,1,7,68,5,Active,,0
+EMP1359,Siddharth Joshi,Male,33,1991-08-23,Divorced,CA,Pune,Technology,QA Engineer,Arjun Nair,Campus Placement,2020-05-01,2021-10-23,4.7,82107,Good,3.98,1,22,3,32,8,Terminated,Contract End,1
+EMP1360,Suresh Reddy,Male,31,1993-02-27,Married,M.Sc,Bangalore,Operations,Operations Analyst,Anita Desai,Recruitment Agency,2018-05-07,,6.7,47607,Excellent,3.54,3,25,6,4,4,Active,,0
+EMP1361,Isha Gupta,Female,48,1976-03-23,Divorced,B.Tech,Mumbai,Technology,Tech Lead,Sneha Iyer,Company Website,2019-09-03,,5.3,134852,Excellent,4.55,5,23,8,41,7,Active,,0
+EMP1362,Simran Sharma,Female,34,1990-04-21,Married,CA,Kolkata,Operations,Operations Executive,Vikram Singh,Company Website,2019-06-19,2021-02-08,5.5,40463,Poor,4.89,2,7,8,16,9,Voluntarily Resigned,Work-Life Balance,1
+EMP1363,Shruti Nair,Female,24,2000-07-12,Single,M.Sc,Bangalore,Marketing,Marketing Manager,Simran Kaur,Naukri.com,2017-07-13,2019-07-03,7.5,77134,Average,1.59,1,0,8,78,10,Terminated,Better Opportunity,1
+EMP1364,Aishwarya Reddy,Female,26,1998-02-12,Married,BBA,Hyderabad,Technology,Software Engineer,Sneha Iyer,Company Website,2017-10-04,,7.2,88366,Excellent,2.63,4,21,7,15,3,Active,,0
+EMP1365,Swati Joshi,Female,35,1989-04-20,Single,M.Sc,Hyderabad,Marketing,Digital Marketing Analyst,Aakash Mehta,Employee Referral,2018-05-24,,6.6,63564,Average,3.06,2,13,2,3,4,Active,,0
+EMP1366,Neha Sharma,Female,37,1987-03-28,Married,B.Tech,Mumbai,HR,HR Business Partner,Rohit Verma,Indeed,2020-12-13,,4.1,54638,Good,4.99,4,23,4,9,1,Active,,0
+EMP1367,Meera Pillai,Female,52,1972-11-26,Single,M.Tech,Delhi,Sales,Sales Analyst,Priya Menon,LinkedIn,2015-01-09,,10.0,45481,Excellent,4.28,3,12,5,16,8,Active,,0
+EMP1368,Tanvi Joshi,Female,24,2000-06-23,Married,B.Sc,Chennai,Technology,Tech Lead,Arjun Nair,Company Website,2023-07-05,,1.5,102611,Average,2.27,3,1,2,63,4,Active,,0
+EMP1369,Aishwarya Reddy,Female,38,1986-06-14,Single,BBA,Mumbai,Operations,Logistics Coordinator,Vikram Singh,Naukri.com,2017-06-24,2020-06-08,7.5,53267,Average,2.46,5,21,7,6,3,Terminated,Relocation,1
+EMP1370,Kavya Tiwari,Female,23,2001-08-12,Single,B.Com,Pune,Technology,Data Analyst,Arjun Nair,Recruitment Agency,2023-08-15,,1.4,81213,Poor,2.03,2,3,5,11,3,Active,,0
+EMP1371,Shreya Bhat,Female,28,1996-10-01,Married,MBA,Pune,Operations,Logistics Coordinator,Vikram Singh,LinkedIn,2023-10-06,,1.2,55381,Good,3.73,2,24,7,12,5,Active,,0
+EMP1372,Karan Joshi,Male,22,2002-02-15,Single,BBA,Delhi,Operations,Process Manager,Vikram Singh,Company Website,2022-08-21,,2.4,67084,Good,2.46,3,1,7,41,11,Active,,0
+EMP1373,Nisha Verma,Female,45,1979-02-18,Married,B.Com,Hyderabad,Finance,Finance Manager,Deepak Joshi,Recruitment Agency,2021-02-13,,3.9,101044,Below Average,2.3,2,24,6,11,0,Active,,0
+EMP1374,Simran Gupta,Female,31,1993-08-26,Married,M.Sc,Ahmedabad,Finance,Finance Manager,Deepak Joshi,Naukri.com,2021-12-26,,3.0,103298,Good,1.61,3,21,1,47,8,Active,,0
+EMP1375,Neha Kumar,Female,47,1977-06-20,Divorced,M.Sc,Delhi,Finance,Accountant,Deepak Joshi,Naukri.com,2017-07-21,,7.5,68237,Below Average,3.16,1,16,5,59,10,Active,,0
+EMP1376,Manish Mishra,Male,35,1989-02-26,Divorced,B.Tech,Bangalore,Operations,Operations Analyst,Anita Desai,LinkedIn,2022-05-05,2023-08-28,2.7,52806,Poor,2.15,2,16,6,37,9,Voluntarily Resigned,No Growth,1
+EMP1377,Shreya Reddy,Female,33,1991-05-19,Married,M.Tech,Kolkata,Sales,Sales Executive,Priya Menon,LinkedIn,2016-09-01,,8.3,53790,Average,4.46,2,25,2,50,0,Active,,0
+EMP1378,Tanvi Pillai,Female,47,1977-05-11,Single,B.Tech,Bangalore,Sales,Sales Executive,Priya Menon,Campus Placement,2017-04-06,,7.7,54319,Average,3.69,1,13,8,2,0,Active,,0
+EMP1379,Swati Pillai,Female,45,1979-08-10,Divorced,B.Tech,Bangalore,Technology,QA Engineer,Sneha Iyer,Naukri.com,2020-12-22,,4.0,86993,Average,3.19,3,2,2,17,0,Active,,0
+EMP1380,Aakash Tiwari,Male,42,1982-03-21,Single,MBA,Mumbai,Technology,QA Engineer,Arjun Nair,Campus Placement,2018-07-27,,6.4,90888,Excellent,1.94,1,9,7,18,7,Active,,0
+EMP1381,Sakshi Tiwari,Female,22,2002-08-19,Married,B.Sc,Kolkata,Technology,DevOps Engineer,Sneha Iyer,Recruitment Agency,2018-04-10,,6.7,80359,Good,3.22,1,10,0,13,10,Active,,0
+EMP1382,Sneha Tiwari,Female,34,1990-08-17,Single,M.Sc,Kolkata,Marketing,Marketing Executive,Simran Kaur,Employee Referral,2022-04-23,,2.7,64732,Excellent,3.54,4,18,5,70,1,Active,,0
+EMP1383,Tanvi Kumar,Female,22,2002-03-10,Married,B.Com,Ahmedabad,Sales,Key Account Manager,Rahul Sharma,Company Website,2018-08-12,,6.4,80275,Good,3.09,5,7,5,77,11,Active,,0
+EMP1384,Isha Patel,Female,47,1977-08-26,Married,MBA,Ahmedabad,Sales,Sales Manager,Rahul Sharma,Indeed,2017-10-07,,7.2,71614,Excellent,1.75,4,4,2,25,2,Active,,0
+EMP1385,Shruti Iyer,Female,28,1996-09-02,Single,BBA,Bangalore,Technology,Tech Lead,Arjun Nair,Campus Placement,2015-06-09,,9.6,119203,Average,2.52,2,16,0,8,5,Active,,0
+EMP1386,Riya Kaur,Female,47,1977-06-25,Divorced,B.Tech,Bangalore,Finance,Senior Finance Analyst,Deepak Joshi,Recruitment Agency,2015-09-09,2022-07-04,9.3,82493,Average,4.51,1,14,7,14,1,Voluntarily Resigned,Higher Salary Elsewhere,1
+EMP1387,Anita Desai,Female,44,1980-08-25,Single,B.Tech,Kolkata,Marketing,Marketing Executive,Simran Kaur,Campus Placement,2023-08-24,,1.4,51003,Good,4.95,3,10,2,15,3,Active,,0
+EMP1388,Nisha Desai,Female,38,1986-03-03,Married,B.Sc,Delhi,Operations,Logistics Coordinator,Anita Desai,Naukri.com,2019-06-23,,5.5,51751,Excellent,3.25,2,4,8,53,12,Active,,0
+EMP1389,Pallavi Patel,Female,52,1972-01-15,Married,B.Tech,Kolkata,Finance,Financial Controller,Deepak Joshi,Naukri.com,2017-01-23,,7.9,113126,Good,1.53,1,10,5,51,12,Active,,0
+EMP1390,Tarun Verma,Male,42,1982-12-26,Married,B.Sc,Delhi,Marketing,Content Strategist,Aakash Mehta,Indeed,2023-05-14,,1.6,67439,Good,3.31,3,11,0,35,8,Active,,0
+EMP1391,Meera Rao,Female,46,1978-04-10,Divorced,CA,Pune,Technology,Tech Lead,Sneha Iyer,LinkedIn,2016-01-18,2016-07-16,9.0,121151,Excellent,1.78,2,16,8,36,3,Voluntarily Resigned,Work-Life Balance,1
+EMP1392,Isha Pandey,Female,25,1999-12-02,Married,M.Sc,Mumbai,Marketing,Marketing Manager,Aakash Mehta,Indeed,2020-05-21,,4.6,76371,Good,1.96,1,1,1,57,4,Active,,0
+EMP1393,Amit Desai,Male,31,1993-11-26,Single,M.Sc,Chennai,Technology,DevOps Engineer,Arjun Nair,Recruitment Agency,2017-12-13,2022-08-19,7.1,99162,Average,2.2,1,10,8,74,3,Voluntarily Resigned,No Growth,1
+EMP1394,Rohit Kumar,Male,50,1974-03-16,Married,B.Sc,Ahmedabad,Finance,Finance Manager,Kavya Reddy,Indeed,2018-08-03,,6.4,106398,Excellent,1.87,5,17,8,50,4,Active,,0
+EMP1395,Isha Mehta,Female,26,1998-09-05,Divorced,MBA,Chennai,Marketing,Digital Marketing Analyst,Simran Kaur,Naukri.com,2022-12-15,,2.0,62740,Excellent,4.78,2,14,7,4,11,Active,,0
+EMP1396,Vikram Patel,Male,40,1984-05-02,Divorced,B.Com,Delhi,HR,Talent Acquisition Specialist,Rohit Verma,Recruitment Agency,2023-03-04,,1.8,60085,Excellent,3.39,3,9,4,62,0,Active,,0
+EMP1397,Shruti Nair,Female,27,1997-12-16,Married,CA,Ahmedabad,Operations,Process Manager,Vikram Singh,Indeed,2015-02-18,,9.9,71230,Average,4.31,1,13,7,73,4,Active,,0
+EMP1398,Deepak Pandey,Male,42,1982-08-25,Divorced,B.Tech,Chennai,Sales,Senior Sales Executive,Priya Menon,Campus Placement,2022-11-15,,2.1,77682,Good,4.35,1,25,6,49,3,Active,,0
+EMP1399,Neha Mehta,Female,44,1980-01-19,Divorced,M.Sc,Hyderabad,HR,HR Executive,Neha Gupta,LinkedIn,2019-09-21,,5.3,55296,Good,3.75,2,19,8,73,12,Active,,0
+EMP1400,Varun Mehta,Male,52,1972-01-09,Single,M.Sc,Mumbai,Operations,Supply Chain Analyst,Anita Desai,Campus Placement,2018-04-27,2020-06-15,6.7,47622,Good,4.06,1,25,8,77,5,Voluntarily Resigned,No Growth,1
+EMP1401,Swati Reddy,Female,24,2000-02-04,Divorced,B.Tech,Delhi,Sales,Senior Sales Executive,Rahul Sharma,Campus Placement,2023-03-10,,1.8,71621,Below Average,2.27,3,24,1,19,4,Active,,0
+EMP1402,Aarav Verma,Male,31,1993-07-04,Divorced,M.Sc,Hyderabad,Operations,Process Manager,Anita Desai,Recruitment Agency,2020-03-14,,4.8,65083,Poor,2.68,4,3,0,25,3,Active,,0
+EMP1403,Kavya Reddy,Female,23,2001-06-15,Divorced,BBA,Bangalore,Operations,Logistics Coordinator,Vikram Singh,Indeed,2023-07-03,,1.5,54718,Average,3.24,4,20,3,2,4,Active,,0
+EMP1404,Manish Bhat,Male,35,1989-08-03,Single,B.Tech,Ahmedabad,Marketing,Digital Marketing Analyst,Aakash Mehta,Indeed,2023-04-26,,1.7,52954,Good,4.02,5,5,3,68,6,Active,,0
+EMP1405,Anita Sharma,Female,23,2001-08-09,Single,M.Tech,Bangalore,Technology,Tech Lead,Arjun Nair,Company Website,2019-11-13,,5.1,123861,Excellent,3.88,5,16,4,5,2,Active,,0
+EMP1406,Deepak Agarwal,Male,30,1994-07-07,Single,CA,Ahmedabad,Operations,Process Manager,Anita Desai,Naukri.com,2023-06-22,,1.5,68224,Excellent,1.61,4,8,3,41,5,Active,,0
+EMP1407,Aarav Pillai,Male,37,1987-01-01,Married,MBA,Ahmedabad,Sales,Key Account Manager,Priya Menon,Recruitment Agency,2017-07-18,,7.5,73907,Below Average,4.05,5,2,1,68,0,Active,,0
+EMP1408,Aishwarya Patel,Female,34,1990-03-27,Single,BBA,Chennai,Technology,Tech Lead,Arjun Nair,Employee Referral,2015-02-15,,9.9,107648,Average,2.99,4,0,3,2,12,Active,,0
+EMP1409,Divya Iyer,Female,37,1987-06-02,Divorced,B.Com,Ahmedabad,Technology,QA Engineer,Arjun Nair,Indeed,2019-08-23,2023-10-01,5.4,76184,Poor,1.64,1,6,6,14,4,Voluntarily Resigned,Relocation,1
+EMP1410,Arjun Joshi,Male,30,1994-10-28,Married,B.Tech,Ahmedabad,Sales,Sales Manager,Rahul Sharma,Company Website,2018-09-24,,6.3,66906,Below Average,3.53,1,22,8,78,4,Active,,0
+EMP1411,Karan Kumar,Male,49,1975-07-09,Married,M.Sc,Kolkata,Technology,Data Analyst,Sneha Iyer,Employee Referral,2016-11-17,,8.1,98297,Good,4.56,3,16,0,28,0,Active,,0
+EMP1412,Karan Singh,Male,50,1974-10-26,Married,B.Tech,Bangalore,Operations,Logistics Coordinator,Vikram Singh,LinkedIn,2015-12-08,,9.1,49613,Below Average,2.98,2,6,2,42,4,Active,,0
+EMP1413,Tarun Kaur,Male,48,1976-05-08,Divorced,MBA,Ahmedabad,Technology,Tech Lead,Arjun Nair,Indeed,2016-08-08,,8.4,129697,Below Average,2.24,3,16,3,9,12,Active,,0
+EMP1414,Arjun Verma,Male,51,1973-01-13,Divorced,MBA,Bangalore,Marketing,Digital Marketing Analyst,Simran Kaur,Campus Placement,2020-12-03,2021-06-01,4.1,47981,Average,3.71,4,1,4,78,10,Terminated,Work-Life Balance,1
+EMP1415,Kavya Pillai,Female,46,1978-07-08,Divorced,M.Sc,Mumbai,HR,HR Manager,Rohit Verma,Company Website,2015-08-13,,9.4,68059,Average,4.68,5,19,1,43,10,Active,,0
+EMP1416,Vikram Gupta,Male,22,2002-10-23,Single,B.Com,Ahmedabad,Sales,Senior Sales Executive,Rahul Sharma,Company Website,2016-10-26,2017-06-23,8.2,77695,Excellent,2.33,5,8,5,53,7,Voluntarily Resigned,Better Opportunity,1
+EMP1417,Shreya Kumar,Female,38,1986-11-25,Divorced,B.Tech,Chennai,Marketing,Marketing Manager,Simran Kaur,Employee Referral,2020-05-19,,4.6,80441,Good,4.55,2,15,4,77,5,Active,,0
+EMP1418,Rohit Iyer,Male,38,1986-09-28,Divorced,M.Sc,Ahmedabad,HR,HR Business Partner,Neha Gupta,Company Website,2015-07-12,,9.5,61450,Good,3.3,2,25,1,43,3,Active,,0
+EMP1419,Aishwarya Desai,Female,35,1989-06-06,Married,BBA,Hyderabad,Technology,Software Engineer,Sneha Iyer,Indeed,2016-08-26,,8.4,94230,Excellent,2.87,2,0,3,29,7,Active,,0
+EMP1420,Swati Nair,Female,34,1990-03-27,Single,CA,Hyderabad,Finance,Finance Analyst,Kavya Reddy,Campus Placement,2015-06-01,,9.6,59344,Poor,2.4,1,17,1,18,4,Active,,0
+EMP1421,Aakash Desai,Male,27,1997-04-09,Married,B.Com,Mumbai,Sales,Sales Analyst,Rahul Sharma,LinkedIn,2017-06-28,,7.5,46192,Average,1.96,2,6,0,22,4,Active,,0
+EMP1422,Karan Nair,Male,31,1993-08-08,Divorced,B.Sc,Hyderabad,Operations,Operations Analyst,Anita Desai,Naukri.com,2020-06-22,2023-11-04,4.5,51629,Poor,3.09,1,3,2,16,12,Voluntarily Resigned,No Growth,1
+EMP1423,Harsh Bhat,Male,28,1996-09-10,Single,MBA,Ahmedabad,Sales,Sales Executive,Priya Menon,LinkedIn,2017-06-08,,7.6,52556,Good,4.4,2,16,7,26,11,Active,,0
+EMP1424,Sakshi Pandey,Female,36,1988-03-11,Single,BBA,Hyderabad,Sales,Key Account Manager,Priya Menon,LinkedIn,2020-09-23,,4.3,67958,Good,2.37,4,8,6,74,10,Active,,0
+EMP1425,Suresh Nair,Male,31,1993-07-13,Divorced,BBA,Chennai,Finance,Financial Controller,Deepak Joshi,Indeed,2017-06-09,2023-01-09,7.6,113105,Excellent,2.09,2,24,1,37,7,Terminated,Conflict with Manager,1
+EMP1426,Tanvi Kumar,Female,35,1989-06-26,Married,MBA,Chennai,Sales,Key Account Manager,Rahul Sharma,LinkedIn,2022-06-09,,2.6,80331,Excellent,4.08,2,14,3,33,10,Active,,0
+EMP1427,Siddharth Iyer,Male,25,1999-02-03,Divorced,BBA,Pune,Operations,Operations Analyst,Anita Desai,Company Website,2020-01-18,,5.0,45461,Average,4.32,2,21,5,32,4,Active,,0
+EMP1428,Varun Reddy,Male,22,2002-05-10,Married,BBA,Hyderabad,Technology,DevOps Engineer,Arjun Nair,Naukri.com,2020-07-13,,4.5,101283,Good,4.54,4,20,8,19,6,Active,,0
+EMP1429,Tanvi Kaur,Female,47,1977-02-11,Divorced,M.Tech,Delhi,Operations,Logistics Coordinator,Vikram Singh,Naukri.com,2018-07-25,2022-07-04,6.4,50652,Good,1.7,4,14,8,3,5,Voluntarily Resigned,Conflict with Manager,1
+EMP1430,Isha Rao,Female,46,1978-12-18,Single,B.Sc,Kolkata,Operations,Operations Executive,Vikram Singh,Recruitment Agency,2019-06-19,,5.5,45983,Good,4.78,2,4,5,72,10,Active,,0
+EMP1431,Varun Rao,Male,28,1996-08-04,Single,B.Tech,Ahmedabad,HR,Talent Acquisition Specialist,Neha Gupta,Recruitment Agency,2020-10-15,,4.2,59029,Good,3.28,2,3,8,22,0,Active,,0
+EMP1432,Shruti Nair,Female,29,1995-05-22,Single,MBA,Delhi,Technology,Software Engineer,Sneha Iyer,Campus Placement,2023-02-15,,1.9,84886,Excellent,2.02,5,0,2,41,6,Active,,0
+EMP1433,Neha Rao,Female,52,1972-04-05,Single,M.Tech,Ahmedabad,Operations,Logistics Coordinator,Vikram Singh,Indeed,2018-05-14,2020-02-03,6.6,56764,Good,3.3,5,18,4,75,3,Voluntarily Resigned,Contract End,1
+EMP1434,Aishwarya Iyer,Female,38,1986-06-19,Divorced,B.Sc,Pune,Sales,Sales Analyst,Rahul Sharma,Recruitment Agency,2022-08-15,,2.4,53807,Good,3.83,1,9,7,44,11,Active,,0
+EMP1435,Rajesh Iyer,Male,27,1997-10-24,Divorced,M.Tech,Delhi,Technology,QA Engineer,Arjun Nair,Recruitment Agency,2021-08-13,,3.4,93922,Good,3.86,5,3,6,5,3,Active,,0
+EMP1436,Aakash Tiwari,Male,35,1989-09-04,Single,M.Sc,Mumbai,Sales,Sales Executive,Priya Menon,Indeed,2020-02-25,2024-01-05,4.9,47374,Poor,1.83,4,14,2,32,3,Terminated,Contract End,1
+EMP1437,Swati Nair,Female,34,1990-01-01,Single,M.Sc,Hyderabad,Operations,Operations Analyst,Anita Desai,Indeed,2019-02-23,2022-04-08,5.9,44205,Below Average,2.12,4,15,7,8,1,Voluntarily Resigned,Relocation,1
+EMP1438,Harsh Gupta,Male,27,1997-05-04,Divorced,BBA,Delhi,Technology,Senior Software Engineer,Arjun Nair,Employee Referral,2023-12-13,2024-11-07,1.1,141683,Average,4.43,1,21,4,19,7,Terminated,Personal Reasons,1
+EMP1439,Gaurav Gupta,Male,34,1990-12-10,Single,MBA,Hyderabad,Finance,Finance Analyst,Deepak Joshi,Naukri.com,2022-01-20,,2.9,71138,Good,3.66,4,24,3,31,5,Active,,0
+EMP1440,Karan Nair,Male,43,1981-11-03,Divorced,BBA,Hyderabad,Sales,Senior Sales Executive,Rahul Sharma,Employee Referral,2018-02-26,,6.8,77516,Below Average,3.5,1,13,8,13,5,Active,,0
+EMP1441,Kavya Iyer,Female,28,1996-02-12,Single,CA,Pune,HR,HR Manager,Rohit Verma,LinkedIn,2020-03-01,2021-06-24,4.8,77580,Good,3.81,1,12,3,58,3,Terminated,No Growth,1
+EMP1442,Kavya Agarwal,Female,47,1977-10-06,Single,CA,Bangalore,Technology,Tech Lead,Sneha Iyer,Campus Placement,2019-02-20,,5.9,134776,Good,3.78,2,10,2,40,10,Active,,0
+EMP1443,Swati Pandey,Female,42,1982-12-08,Divorced,BBA,Kolkata,Operations,Operations Executive,Vikram Singh,Company Website,2023-10-23,2024-03-21,1.2,48058,Poor,1.67,1,19,1,39,3,Terminated,Conflict with Manager,1
+EMP1444,Pooja Joshi,Female,34,1990-04-21,Divorced,B.Sc,Mumbai,Technology,DevOps Engineer,Sneha Iyer,Recruitment Agency,2015-04-24,,9.7,79767,Poor,2.92,3,4,4,40,10,Active,,0
+EMP1445,Nikhil Kaur,Male,32,1992-04-07,Married,MBA,Mumbai,HR,HR Business Partner,Neha Gupta,Campus Placement,2023-01-22,,1.9,56767,Good,4.08,5,12,8,41,2,Active,,0
+EMP1446,Rohit Joshi,Male,52,1972-04-05,Divorced,B.Com,Pune,Technology,DevOps Engineer,Arjun Nair,Campus Placement,2016-03-19,2020-11-23,8.8,88706,Below Average,2.91,2,16,1,54,11,Voluntarily Resigned,Relocation,1
+EMP1447,Shruti Bhat,Female,36,1988-11-07,Married,B.Com,Kolkata,Sales,Sales Manager,Priya Menon,Indeed,2019-08-03,2021-10-21,5.4,82298,Average,4.17,4,5,7,56,6,Voluntarily Resigned,No Growth,1
+EMP1448,Aishwarya Agarwal,Female,26,1998-09-24,Single,CA,Bangalore,Technology,Data Analyst,Sneha Iyer,Campus Placement,2017-05-13,,7.6,76170,Average,3.02,4,9,6,71,9,Active,,0
+EMP1449,Deepak Nair,Male,22,2002-01-28,Married,MBA,Pune,Marketing,Brand Manager,Aakash Mehta,Campus Placement,2023-12-24,,1.0,79669,Good,1.52,4,13,6,47,6,Active,,0
+EMP1450,Suresh Bhat,Male,27,1997-04-25,Married,BBA,Hyderabad,Marketing,Brand Manager,Aakash Mehta,Company Website,2021-05-25,2023-07-14,3.6,81378,Good,2.78,3,22,0,49,6,Voluntarily Resigned,Better Opportunity,1
+EMP1451,Aishwarya Mishra,Female,52,1972-11-05,Married,BBA,Bangalore,Technology,DevOps Engineer,Arjun Nair,Company Website,2019-04-20,,5.7,97618,Good,3.07,1,3,1,49,6,Active,,0
+EMP1452,Riya Desai,Female,38,1986-09-22,Divorced,B.Sc,Hyderabad,Finance,Accountant,Deepak Joshi,Company Website,2021-10-10,,3.2,71393,Good,2.81,1,20,5,18,4,Active,,0
+EMP1453,Ankit Sharma,Male,25,1999-02-25,Single,M.Sc,Hyderabad,Sales,Sales Manager,Priya Menon,Naukri.com,2021-09-14,,3.3,84923,Average,3.12,2,5,5,23,11,Active,,0
+EMP1454,Pradeep Bhat,Male,48,1976-04-06,Married,MBA,Delhi,Sales,Senior Sales Executive,Rahul Sharma,LinkedIn,2018-01-24,,6.9,81256,Good,4.52,3,13,7,80,9,Active,,0
+EMP1455,Siddharth Singh,Male,32,1992-01-19,Divorced,BBA,Bangalore,Marketing,Marketing Executive,Simran Kaur,LinkedIn,2018-08-16,,6.4,43402,Excellent,2.69,1,8,0,74,12,Active,,0
+EMP1456,Aishwarya Pandey,Female,52,1972-05-16,Divorced,B.Sc,Kolkata,Technology,Data Analyst,Sneha Iyer,Employee Referral,2022-06-20,2023-08-14,2.5,102911,Good,2.9,3,21,5,40,3,Voluntarily Resigned,Conflict with Manager,1
+EMP1457,Pradeep Rao,Male,45,1979-03-01,Divorced,B.Tech,Hyderabad,Marketing,Digital Marketing Analyst,Aakash Mehta,Company Website,2016-09-09,,8.3,60871,Average,4.18,4,19,7,65,6,Active,,0
+EMP1458,Priya Patel,Female,49,1975-01-26,Married,B.Sc,Bangalore,Finance,Senior Finance Analyst,Kavya Reddy,Campus Placement,2020-11-15,,4.1,120430,Average,4.01,4,23,1,44,6,Active,,0
+EMP1459,Gaurav Bhat,Male,47,1977-12-17,Single,BBA,Hyderabad,Sales,Sales Executive,Priya Menon,Campus Placement,2015-03-16,,9.8,55721,Good,4.74,5,14,2,57,1,Active,,0
+EMP1460,Vikram Kumar,Male,44,1980-01-06,Divorced,MBA,Ahmedabad,HR,Talent Acquisition Specialist,Neha Gupta,Naukri.com,2020-07-25,,4.4,56546,Excellent,4.77,3,21,7,15,10,Active,,0
+EMP1461,Tarun Pillai,Male,24,2000-11-11,Married,MBA,Bangalore,Finance,Accountant,Kavya Reddy,LinkedIn,2021-12-24,,3.0,72119,Good,2.4,2,7,4,14,4,Active,,0
+EMP1462,Vikram Bhat,Male,33,1991-03-28,Divorced,CA,Chennai,Sales,Sales Executive,Priya Menon,Campus Placement,2020-07-19,,4.5,50897,Good,2.58,1,18,8,24,6,Active,,0
+EMP1463,Gaurav Pillai,Male,40,1984-04-04,Single,M.Tech,Delhi,HR,HR Manager,Rohit Verma,Campus Placement,2021-01-18,,4.0,72489,Good,3.64,2,9,3,63,10,Active,,0
+EMP1464,Harsh Kaur,Male,31,1993-09-23,Divorced,B.Com,Chennai,HR,L&D Specialist,Rohit Verma,Recruitment Agency,2016-05-28,2024-04-16,8.6,62656,Average,2.45,2,15,4,48,0,Voluntarily Resigned,Personal Reasons,1
+EMP1465,Ankit Rao,Male,31,1993-11-28,Divorced,MBA,Kolkata,Technology,Data Analyst,Sneha Iyer,Campus Placement,2017-01-18,,8.0,78033,Excellent,3.88,4,21,7,44,12,Active,,0
+EMP1466,Pooja Agarwal,Female,34,1990-02-05,Single,M.Tech,Ahmedabad,Operations,Operations Executive,Anita Desai,Campus Placement,2020-10-28,2024-12-06,4.2,45865,Excellent,3.34,4,20,2,73,2,Voluntarily Resigned,Personal Reasons,1
+EMP1467,Shreya Gupta,Female,43,1981-03-13,Single,B.Sc,Chennai,Technology,Senior Software Engineer,Arjun Nair,LinkedIn,2021-11-27,,3.1,117787,Good,2.4,1,11,7,22,0,Active,,0
+EMP1468,Divya Verma,Female,25,1999-04-13,Married,M.Sc,Pune,Sales,Sales Analyst,Rahul Sharma,Campus Placement,2022-05-23,2022-11-19,2.6,53683,Poor,3.19,4,24,1,59,10,Voluntarily Resigned,Higher Salary Elsewhere,1
+EMP1469,Pallavi Iyer,Female,22,2002-10-19,Divorced,M.Tech,Kolkata,Technology,QA Engineer,Arjun Nair,Company Website,2022-05-23,,2.6,87201,Excellent,3.72,5,5,6,61,10,Active,,0
+EMP1470,Neha Agarwal,Female,27,1997-07-27,Single,MBA,Hyderabad,Marketing,Marketing Manager,Aakash Mehta,Recruitment Agency,2015-07-18,,9.5,89057,Poor,3.61,1,16,8,15,12,Active,,0
+EMP1471,Aarav Agarwal,Male,36,1988-06-04,Divorced,CA,Pune,Finance,Senior Finance Analyst,Deepak Joshi,LinkedIn,2015-03-19,2022-05-11,9.8,101781,Good,2.24,1,17,4,4,1,Voluntarily Resigned,Better Opportunity,1
+EMP1472,Sneha Pandey,Female,50,1974-05-22,Divorced,MBA,Hyderabad,Operations,Supply Chain Analyst,Anita Desai,Indeed,2023-08-05,,1.4,46968,Average,2.94,3,16,5,77,8,Active,,0
+EMP1473,Rohit Nair,Male,26,1998-05-28,Divorced,MBA,Kolkata,Finance,Financial Controller,Deepak Joshi,Indeed,2018-03-20,,6.8,91697,Average,2.46,5,11,4,16,11,Active,,0
+EMP1474,Anita Rao,Female,36,1988-02-09,Single,B.Sc,Delhi,Sales,Sales Analyst,Rahul Sharma,Employee Referral,2021-12-05,2024-05-23,3.1,48984,Average,2.98,1,20,4,24,11,Voluntarily Resigned,No Growth,1
+EMP1475,Arjun Reddy,Male,25,1999-09-04,Single,B.Tech,Pune,Operations,Process Manager,Vikram Singh,Naukri.com,2023-07-03,,1.5,64097,Average,3.08,3,10,4,18,12,Active,,0
+EMP1476,Suresh Gupta,Male,47,1977-02-06,Single,MBA,Pune,Sales,Sales Analyst,Priya Menon,Indeed,2023-12-10,2024-09-05,1.1,53494,Good,2.09,1,16,5,73,4,Terminated,Relocation,1
+EMP1477,Sakshi Bhat,Female,26,1998-05-01,Divorced,BBA,Chennai,Operations,Operations Analyst,Vikram Singh,Company Website,2023-12-05,,1.1,49436,Good,1.84,4,18,4,6,11,Active,,0
+EMP1478,Anita Mishra,Female,33,1991-08-17,Divorced,MBA,Chennai,Operations,Supply Chain Analyst,Vikram Singh,Recruitment Agency,2019-05-14,2022-01-28,5.6,48521,Excellent,3.75,3,20,1,39,6,Voluntarily Resigned,Higher Salary Elsewhere,1
+EMP1479,Arjun Desai,Male,39,1985-08-26,Divorced,B.Tech,Kolkata,Sales,Sales Analyst,Rahul Sharma,LinkedIn,2015-07-22,,9.5,56672,Good,2.87,4,15,8,68,11,Active,,0
+EMP1480,Rajesh Agarwal,Male,45,1979-06-08,Divorced,B.Com,Chennai,Sales,Sales Executive,Priya Menon,LinkedIn,2023-11-20,,1.1,62456,Good,3.24,2,21,8,28,2,Active,,0
+EMP1481,Rajesh Tiwari,Male,34,1990-03-12,Single,B.Sc,Mumbai,Sales,Senior Sales Executive,Rahul Sharma,Naukri.com,2016-06-22,,8.5,70738,Good,4.01,3,9,7,37,4,Active,,0
+EMP1482,Pradeep Pillai,Male,49,1975-08-02,Married,B.Sc,Delhi,Sales,Key Account Manager,Priya Menon,Company Website,2020-01-20,2022-07-08,5.0,84906,Average,4.97,3,11,1,0,5,Voluntarily Resigned,Contract End,1
+EMP1483,Gaurav Pandey,Male,50,1974-03-14,Divorced,B.Com,Kolkata,Sales,Senior Sales Executive,Priya Menon,Employee Referral,2016-08-01,,8.4,78700,Good,1.78,2,15,6,47,4,Active,,0
+EMP1484,Pradeep Mishra,Male,27,1997-03-12,Single,CA,Kolkata,Technology,QA Engineer,Arjun Nair,Campus Placement,2021-01-12,,4.0,97875,Excellent,4.63,1,6,4,5,2,Active,,0
+EMP1485,Ankit Reddy,Male,25,1999-07-16,Single,B.Com,Mumbai,Operations,Operations Analyst,Anita Desai,LinkedIn,2023-08-26,,1.4,44380,Good,2.74,4,16,6,16,1,Active,,0
+EMP1486,Nikhil Verma,Male,43,1981-06-14,Married,BBA,Delhi,Sales,Sales Manager,Priya Menon,Naukri.com,2015-07-16,,9.5,69514,Excellent,3.32,4,2,6,31,9,Active,,0
+EMP1487,Divya Kumar,Female,28,1996-08-23,Married,B.Tech,Kolkata,Operations,Supply Chain Analyst,Vikram Singh,Naukri.com,2016-12-24,,8.0,47772,Below Average,3.78,2,18,2,29,1,Active,,0
+EMP1488,Rajesh Sharma,Male,41,1983-04-03,Married,B.Tech,Kolkata,Marketing,Marketing Manager,Aakash Mehta,LinkedIn,2015-07-14,2019-07-23,9.5,70953,Good,2.64,2,7,5,54,7,Terminated,Work-Life Balance,1
+EMP1489,Divya Kaur,Female,50,1974-01-06,Married,M.Tech,Delhi,Marketing,Brand Manager,Simran Kaur,Campus Placement,2015-01-02,,10.0,88211,Poor,3.82,3,15,4,77,1,Active,,0
+EMP1490,Kavya Gupta,Female,43,1981-01-22,Single,B.Sc,Hyderabad,Operations,Process Manager,Anita Desai,Employee Referral,2023-03-11,,1.8,61309,Good,4.06,5,16,5,30,10,Active,,0
+EMP1491,Harsh Gupta,Male,23,2001-10-21,Single,B.Com,Hyderabad,Sales,Key Account Manager,Rahul Sharma,Campus Placement,2018-04-23,2022-11-28,6.7,71310,Good,4.85,1,17,5,38,11,Terminated,Work-Life Balance,1
+EMP1492,Tanvi Gupta,Female,51,1973-07-03,Divorced,BBA,Mumbai,Finance,Financial Controller,Deepak Joshi,LinkedIn,2022-07-17,,2.5,100965,Excellent,3.92,2,19,4,16,4,Active,,0
+EMP1493,Ankita Pandey,Female,24,2000-03-15,Divorced,B.Tech,Hyderabad,Sales,Key Account Manager,Priya Menon,Naukri.com,2023-07-18,,1.5,76382,Excellent,3.08,5,8,3,23,0,Active,,0
+EMP1494,Shruti Iyer,Female,31,1993-12-09,Married,B.Com,Pune,Sales,Senior Sales Executive,Rahul Sharma,Naukri.com,2023-02-06,,1.9,67200,Average,2.72,5,7,4,5,10,Active,,0
+EMP1495,Nikhil Nair,Male,39,1985-02-01,Married,M.Tech,Kolkata,Technology,Tech Lead,Sneha Iyer,Naukri.com,2020-11-20,,4.1,133867,Below Average,2.32,1,22,8,33,11,Active,,0
+EMP1496,Amit Iyer,Male,45,1979-05-06,Single,M.Sc,Hyderabad,Technology,QA Engineer,Arjun Nair,Indeed,2019-01-18,2021-06-06,6.0,90129,Good,2.03,4,20,4,80,10,Voluntarily Resigned,No Growth,1
+EMP1497,Divya Kumar,Female,33,1991-03-16,Single,M.Tech,Mumbai,Finance,Accountant,Deepak Joshi,Employee Referral,2016-08-06,,8.4,87462,Good,3.68,2,6,7,23,10,Active,,0
+EMP1498,Aishwarya Nair,Female,24,2000-03-03,Single,B.Tech,Kolkata,Sales,Key Account Manager,Rahul Sharma,Campus Placement,2021-04-15,,3.7,76221,Excellent,4.14,5,4,0,77,1,Active,,0
+EMP1499,Deepak Iyer,Male,46,1978-02-09,Single,M.Sc,Ahmedabad,Sales,Sales Executive,Rahul Sharma,Naukri.com,2017-11-20,,7.1,52819,Average,3.98,1,17,5,10,3,Active,,0
+EMP1500,Simran Iyer,Female,23,2001-09-23,Single,B.Com,Kolkata,Operations,Operations Executive,Vikram Singh,Indeed,2019-11-18,,5.1,46165,Excellent,2.56,1,3,8,37,1,Active,,0
