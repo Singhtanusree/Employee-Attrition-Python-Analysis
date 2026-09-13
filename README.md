@@ -29,12 +29,10 @@ Synthetic HR dataset (`employee_attrition_data.csv`) containing employee demogra
 ├── data/
 │   └── employee_attrition_data.csv
 ├── images/
-│   ├── attrition_by_department.png
-│   ├── attrition_by_recruitment_source.png
-│   ├── count_of_emp_by_exit_reason.png
-│   └── dashboard.png
-└── README.md
-```
+   ├── attrition_by_department.png
+   ├── attrition_by_recruitment_source.png
+   ├── count_of_emp_by_exit_reason.png
+   └── dashboard.png
 
-## Related Work
-This project revisits the same HR attrition dataset previously analyzed with [SQL](https://github.com/Singhtanusree/Employee-Attrition-SQL-Analysis) and Excel, as part of a "same data, three tools" portfolio series demonstrating the analysis across different tool stacks.
+
+
