@@ -17,20 +17,6 @@ Synthetic HR dataset (`employee_attrition_data.csv`) containing employee demogra
 - **Job satisfaction, not salary, is the stronger attrition signal** — leavers report satisfaction of 2.53/5 vs. 3.23/5 for stayers, while the salary gap between the two groups is small (~₹4,400/month).
 - **Top exit reasons are growth-related, not pay-related** — "No Growth" (27%) and "Better Opportunity" (21%) together account for nearly half of all exits, compared to just 11% citing "Higher Salary Elsewhere."
 
-## Visualizations
-
-**Attrition by Department**
-![Attrition by Department](images/attrition_by_department.png)
-
-**Attrition by Recruitment Source**
-![Attrition by Recruitment Source](images/attrition_by_recruitment_source.png)
-
-**Exit Reasons**
-![Exit Reasons](images/count_of_emp_by_exit_reason.png)
-
-**Executive Summary Dashboard**
-![Executive Summary Dashboard](images/dashboard.png)
-
 ## Business Recommendations
 1. **Prioritize Operations for a retention review** — its 37% attrition is the single largest contributor to overall churn; bringing it down to the company average would meaningfully cut total attrition.
 2. **Audit the Employee Referral pipeline** — despite its reputation, it has the highest attrition of any recruitment source. Interviewing a sample of recently-referred leavers could surface expectation mismatches set during hiring.
